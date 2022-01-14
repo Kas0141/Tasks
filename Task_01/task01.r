@@ -2,5 +2,5 @@
 library(swirl)
 swirl ()
 Kayber
-library (swirl) 
-library (swirl) 
+
+# Checked and she did the whole assignment JM
