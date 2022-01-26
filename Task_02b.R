@@ -100,5 +100,5 @@ Start <- which(nap =="Start")
 End <- which(nap =="End")
 Duration <- which(End-Start =="Duration")
 plot(Duration ~ beren3$day[nap])
-
+The later in the day that the nap occurs the longer it last, but if it is earlier in the day it tends to be shorter with more frequent naps throughout the day.
                   
