@@ -1,0 +1,60 @@
+Data Provider,The Paleobiology Database,,,,,,,,,
+Data Source,The Paleobiology Database,,,,,,,,,
+Data License,Creative Commons CC-BY,,,,,,,,,
+License URL,http://creativecommons.org/licenses/by/4.0/,,,,,,,,,
+Documentation URL,http://paleobiodb.org/data1.2/occs/diversity_doc.html,,,,,,,,,
+Data URL,http://paleobiodb.org/data1.2/occs/diversity.csv?datainfo&rowcount&base_name=Chelonioidea&count=genera&ident=all,,,,,,,,,
+Access Time,Mon 2022-02-21 16:45:46 GMT,,,,,,,,,
+Title,PBDB Data Service,,,,,,,,,
+Parameters:,,,,,,,,,,
+,count,genera,,,,,,,,
+,time_reso,stage,,,,,,,,
+,base_name,Chelonioidea,,,,,,,,
+,idtype,all,,,,,,,,
+,timerule,major,,,,,,,,
+Elapsed Time,0.0453,,,,,,,,,
+Records Found,38,,,,,,,,,
+Records Returned,38,,,,,,,,,
+Summary:,,,,,,,,,,
+n_occs,bin_total,imprecise_time,imprecise_taxon,missing_taxon,,,,,,
+538,512,26,163,,,,,,,
+Records:,,,,,,,,,,
+interval_no,interval_name,max_ma,min_ma,X_Ft,X_bL,X_FL,X_bt,sampled_in_bin,implied_in_bin,n_occs
+3002,Holocene,0.0117,0,0,4,0,0,4,1,13
+922,Late Pleistocene,0.126,0.0117,0,0,0,4,2,0,3
+923,Middle Pleistocene,0.781,0.126,0,0,0,4,1,0,2
+740,Calabrian,1.806,0.781,0,0,0,4,1,0,3
+741,Gelasian,2.588,1.806,0,0,0,4,0,0,0
+96,Piacenzian,3.6,2.588,0,0,0,4,0,1,4
+97,Zanclean,5.333,3.6,0,3,0,4,6,1,14
+98,Messinian,7.246,5.333,0,1,0,7,2,0,2
+99,Tortonian,11.62,7.246,3,0,0,5,7,1,22
+100,Serravallian,13.82,11.62,0,2,0,5,4,1,12
+101,Langhian,15.97,13.82,1,0,1,6,6,0,28
+102,Burdigalian,20.44,15.97,0,3,0,6,6,2,15
+103,Aquitanian,23.03,20.44,0,0,0,9,0,1,1
+104,Chattian,28.1,23.03,0,3,0,9,6,0,13
+105,Rupelian,33.9,28.1,2,2,2,10,11,0,32
+106,Priabonian,38,33.9,1,1,0,11,7,2,22
+107,Bartonian,41.3,38,2,1,2,10,9,1,26
+108,Lutetian,47.8,41.3,2,2,0,9,8,1,33
+109,Ypresian,56,47.8,4,2,2,7,12,1,46
+110,Thanetian,59.2,56,1,0,0,8,2,2,11
+743,Selandian,61.6,59.2,0,0,1,8,1,1,3
+111,Danian,66,61.6,0,1,1,8,4,1,9
+112,Maastrichtian,72.1,66,1,4,5,8,13,0,39
+113,Campanian,83.6,72.1,4,1,11,8,19,1,89
+114,Santonian,86.3,83.6,0,0,0,9,1,1,4
+115,Coniacian,89.8,86.3,1,0,1,8,2,1,5
+116,Turonian,93.9,89.8,1,0,0,7,2,0,12
+117,Cenomanian,100.5,93.9,2,1,2,5,6,2,20
+118,Albian,113,100.5,2,0,4,4,7,1,17
+119,Aptian,125,113,0,0,1,4,1,0,2
+120,Barremian,129.4,125,1,0,0,3,1,2,4
+121,Hauterivian,132.9,129.4,0,0,0,3,0,0,0
+122,Valanginian,139.8,132.9,3,0,0,0,3,0,4
+123,Berriasian,145,139.8,0,0,0,0,0,0,0
+124,Tithonian,152.1,145,0,0,0,0,0,0,0
+125,Kimmeridgian,157.3,152.1,0,0,0,0,0,0,0
+126,Oxfordian,163.5,157.3,0,0,0,0,0,0,0
+127,Callovian,166.1,163.5,0,0,1,0,1,0,2

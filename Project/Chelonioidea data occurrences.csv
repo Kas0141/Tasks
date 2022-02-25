@@ -1,0 +1,266 @@
+Data Provider,The Paleobiology Database,,,,,,,,,,,,,,,
+Data Source,The Paleobiology Database,,,,,,,,,,,,,,,
+Data License,Creative Commons CC-BY,,,,,,,,,,,,,,,
+License URL,http://creativecommons.org/licenses/by/4.0/,,,,,,,,,,,,,,,
+Documentation URL,http://paleobiodb.org/data1.2/occs/list_doc.html,,,,,,,,,,,,,,,
+Data URL,http://paleobiodb.org/data1.2/occs/list.csv?datainfo&rowcount&base_name=Chelonioidea&taxon_reso=species&ident=all,,,,,,,,,,,,,,,
+Access Time,Wed 2022-02-23 23:52:35 GMT,,,,,,,,,,,,,,,
+Title,PBDB Data Service,,,,,,,,,,,,,,,
+Parameters:,,,,,,,,,,,,,,,,
+,base_name,Chelonioidea,,,,,,,,,,,,,,
+,idreso,species,,,,,,,,,,,,,,
+,idtype,all,,,,,,,,,,,,,,
+,timerule,major,,,,,,,,,,,,,,
+,taxon_status,all,,,,,,,,,,,,,,
+Elapsed Time,0.0284,,,,,,,,,,,,,,,
+Records Found,247,,,,,,,,,,,,,,,
+Records Returned,247,,,,,,,,,,,,,,,
+Records:,,,,,,,,,,,,,,,,
+occurrence_no,record_type,reid_no,flags,collection_no,identified_name,identified_rank,identified_no,difference,accepted_name,accepted_rank,accepted_no,early_interval,late_interval,max_ma,min_ma,reference_no
+150871,occ,,,13449,Miocaretta lankae,species,86857,,Miocaretta lankae,species,86857,Miocene,,23.03,5.333,6063
+213025,occ,,,21688,Caretta caretta,species,173404,,Caretta caretta,species,173403,Holocene,,0.0117,0,4789
+213027,occ,,,21688,Chelonia mydas,species,173399,,Chelonia mydas,species,173398,Holocene,,0.0117,0,4789
+213028,occ,,,21688,Eretmochelys imbricata,species,173402,,Eretmochelys imbricata,species,173401,Holocene,,0.0117,0,4789
+213029,occ,,,21688,Dermochelys coriacea,species,365634,,Dermochelys coriacea,species,364840,Holocene,,0.0117,0,4789
+229968,occ,,R,23367,Lophochelys niobrarae,species,128353,,Lophochelys niobrarae,species,128353,Late Campanian,,83.5,70.6,735
+287830,occ,,,15595,Puppigerus camperi,species,313940,,Puppigerus camperi,species,313939,Wasatchian,,55.8,50.3,812
+287831,occ,,,15595,cf. Eosphargis gigas,species,63142,,Eosphargis gigas,species,235098,Wasatchian,,55.8,50.3,812
+287845,occ,13587,,20400,cf. Caretta caretta,species,173404,,Caretta caretta,species,173403,Irvingtonian,,1.8,0.3,769
+290540,occ,,,27727,Desmatochelys cf. lowi,species,393402,"misspelling of, obsolete variant of",Desmatochelys lowii,species,173417,Late Santonian,,85.8,83.5,738
+290541,occ,,,27728,Desmatochelys ? lowi,species,393402,"misspelling of, obsolete variant of",Desmatochelys lowii,species,173417,Late Santonian,,85.8,83.5,7623
+296469,occ,,,28368,Peritresius n. sp. virginianus,species,83313,subjective synonym of,Syllomus aegyptiacus,species,83307,Langhian,,15.97,13.82,34382
+296470,occ,,,28368,Syllomus crispatus,species,63978,,Syllomus crispatus,species,63978,Langhian,,15.97,13.82,7804
+361702,occ,,,34269,Caretta caretta,species,173404,,Caretta caretta,species,173403,Late Pleistocene,,0.126,0.0117,9009
+361703,occ,,,34269,Chelonia mydas,species,173399,,Chelonia mydas,species,173398,Late Pleistocene,,0.126,0.0117,9009
+388727,occ,26315,,37182,n. gen. Arabemys n. sp. crassiscutata,species,80840,,Arabemys crassiscutata,species,80840,Late Paleocene,Early Eocene,58.7,48.6,17285
+408785,occ,,,13299,n. gen. Anglocetus n. sp. beatsoni,species,57633,subjective synonym of,Eosphargis gigas,species,235098,Ypresian,,56,47.8,10630
+410288,occ,,,39582,Tasbacka aldabergeni,species,264912,,Tasbacka aldabergeni,species,264912,Paleogene,,66,23.03,10705
+465610,occ,,,46085,Puppigerus cf. crassicostatus,species,342725,recombined as,Puppigerus crassicostata,species,235265,Early Eocene,,55.8,48.6,12182
+465636,occ,,,46092,Chelyopsis ? holsaticus,species,358387,,Chelyopsis holsaticus,species,358387,Early Oligocene,,33.9,28.4,12298
+501848,occ,,,18587,Chelone n. sp. grandaevus,species,98331,recombined as,Puppigerus grandaevus,species,98331,Burdigalian,,20.44,15.97,12192
+537395,occ,,,14149,Miocaretta lankae,species,86857,,Miocaretta lankae,species,86857,Langhian,,15.97,13.82,15040
+558954,occ,,,58089,Caretta caretta,species,173404,,Caretta caretta,species,173403,Irvingtonian,,1.8,0.3,15601
+572713,occ,,,59059,Euclastes n. sp. hutchisoni,species,80838,"misspelling of, recombined as",Pacifichelys hutchisoni,species,80838,Langhian,,15.97,13.82,17284
+592561,occ,,,62734,n. gen. Nichollsemys n. sp. baieri,species,83033,,Nichollsemys baieri,species,83033,Late Campanian,,83.5,70.6,18093
+593731,occ,,,52582,Caretta patriciae,species,83305,,Caretta patriciae,species,83305,Zanclean,,5.333,3.6,18131
+593735,occ,,,52582,Syllomus aegyptiacus,species,83307,,Syllomus aegyptiacus,species,83307,Zanclean,,5.333,3.6,18131
+627903,occ,,,67712,n. gen. Santanachelys n. sp. gaffneyi,species,90355,,Santanachelys gaffneyi,species,90355,Early Albian,,112.03,109,19353
+666784,occ,,,71797,Syllomus aegyptiacus,species,83307,,Syllomus aegyptiacus,species,83307,Langhian,,15.97,13.82,24251
+666869,occ,23575,,70827,Peritresius virginianus,species,83313,subjective synonym of,Syllomus aegyptiacus,species,83307,Langhian,,15.97,13.82,34382
+741170,occ,,,79700,Thalassochelys libyca,species,86275,,Thalassochelys libyca,species,86275,Priabonian,,38,33.9,26772
+767568,occ,,,81927,Protostega n. sp. dixie,species,125120,subjective synonym of,Protostega gigas,species,96952,Late Santonian,Early Campanian,85.8,70.6,786
+767569,occ,,,81930,Protostega dixie,species,125120,subjective synonym of,Protostega gigas,species,96952,Late Santonian,Early Campanian,85.8,70.6,786
+767570,occ,,R,81931,Protostega dixie,species,125120,subjective synonym of,Protostega gigas,species,96952,Late Santonian,Early Campanian,85.8,70.6,786
+767570,occ,27054,,81931,Protostega gigas,species,96952,,Protostega gigas,species,96952,Late Santonian,Early Campanian,85.8,70.6,42113
+767571,occ,,,81932,Protostega dixie,species,125120,subjective synonym of,Protostega gigas,species,96952,Late Santonian,Early Campanian,85.8,70.6,786
+767572,occ,,,81933,Protostega dixie,species,125120,subjective synonym of,Protostega gigas,species,96952,Late Santonian,Early Campanian,85.8,70.6,786
+767573,occ,,,81934,Protostega dixie,species,125120,subjective synonym of,Protostega gigas,species,96952,Late Santonian,Early Campanian,85.8,70.6,786
+767574,occ,,,81935,n. gen. Calcarichelys n. sp. gemma,species,125121,,Calcarichelys gemma,species,125121,Late Santonian,Early Campanian,85.8,70.6,786
+768008,occ,,,81972,Thinochelys n. sp. lapisossea,species,127985,,Thinochelys lapisossea,species,127985,Late Santonian,Early Campanian,85.8,70.6,787
+768012,occ,,,82002,n. gen. Lophochelys n. sp. natatrix,species,128352,,Lophochelys natatrix,species,128352,Coniacian,Santonian,89.8,83.6,787
+768013,occ,,,82002,Lophochelys n. sp. niobrarae,species,128353,,Lophochelys niobrarae,species,128353,Coniacian,Santonian,89.8,83.6,787
+768014,occ,,,81927,Lophochelys n. sp. venatrix,species,127991,,Lophochelys venatrix,species,127991,Late Santonian,Early Campanian,85.8,70.6,787
+768015,occ,,,81933,Lophochelys venatrix,species,127991,,Lophochelys venatrix,species,127991,Late Santonian,Early Campanian,85.8,70.6,787
+768104,occ,,,82035,n. gen. Corsochelys n. sp. haliniches,species,128700,corrected to,Corsochelys halinches,species,128700,Early Campanian,,83.5,70.6,788
+768748,occ,,,81934,Chelosphargis cf. advena,species,125124,,Chelosphargis advena,species,125123,Late Santonian,Early Campanian,85.8,70.6,27182
+768754,occ,,,81927,Chelosphargis cf. advena,species,125124,,Chelosphargis advena,species,125123,Late Santonian,Early Campanian,85.8,70.6,27182
+768755,occ,,,81972,Chelosphargis cf. advena,species,125124,,Chelosphargis advena,species,125123,Late Santonian,Early Campanian,85.8,70.6,27182
+771707,occ,,,82635,Calcarichelys gemma,species,125121,,Calcarichelys gemma,species,125121,Early Campanian,,83.5,70.6,27814
+789470,occ,,,85360,Syllomus crispatus,species,63978,,Syllomus crispatus,species,63978,Burdigalian,,20.44,15.97,12331
+794239,occ,30702,,60285,Rhinochelys n. sp. nammourensis,species,312334,,Rhinochelys nammourensis,species,312334,Early Cenomanian,Middle Cenomanian,99.6,93.5,54006
+813251,occ,,,89429,Psephophorus n. sp. rupeliensis,species,317853,,Psephophorus rupeliensis,species,317853,Rupelian,,33.9,28.1,29875
+813252,occ,,,52047,Bryochelys waterkeyni,species,359400,,Bryochelys waterkeyni,species,359400,Rupelian,,33.9,28.1,29875
+813253,occ,,,52047,Chelyopsis littoreus,species,359401,,Chelyopsis littoreus,species,359401,Rupelian,,33.9,28.1,29875
+813254,occ,,,52047,Chelone vanbenedeni,species,359402,,Chelone vanbenedeni,species,359402,Rupelian,,33.9,28.1,29875
+821685,occ,,,90466,n. gen. Terlinguachelys n. sp. fischbecki,species,150512,,Terlinguachelys fischbecki,species,150512,Middle Campanian,,83.5,70.6,30428
+821689,occ,,,90468,n. gen. Porthochelys n. sp. laticeps,species,128346,,Porthochelys laticeps,species,128346,Late Cretaceous,,100.5,66,30430
+823316,occ,,,59059,cf. Syllomus aegyptiacus,species,83307,,Syllomus aegyptiacus,species,83307,Langhian,,15.97,13.82,17284
+833116,occ,,,92426,Emys n. sp. benstedi,species,235146,recombined as,Cimochelys benstedi,species,235146,Cenomanian,Turonian,100.5,89.8,15587
+833117,occ,,,92426,Puppigerus camperi,species,313940,,Puppigerus camperi,species,313939,Cenomanian,Turonian,100.5,89.8,15587
+858931,occ,,,95373,n. gen. Pacifichelys n. sp. urbinai,species,165652,,Pacifichelys urbinai,species,165652,Tortonian,,11.62,7.246,32455
+899490,occ,,,100212,Peritresius virginianus,species,83313,subjective synonym of,Syllomus aegyptiacus,species,83307,Langhian,,15.97,13.82,34382
+899491,occ,,,100213,Peritresius cf. virginianus,species,83313,subjective synonym of,Syllomus aegyptiacus,species,83307,Langhian,,15.97,13.82,34382
+899492,occ,,,100214,Peritresius cf. virginianus,species,83313,subjective synonym of,Syllomus aegyptiacus,species,83307,Langhian,,15.97,13.82,34382
+910887,occ,,,102879,Desmatochelys lowi,species,393402,"misspelling of, obsolete variant of",Desmatochelys lowii,species,173417,Turonian,,93.9,89.8,34803
+914541,occ,,,71798,Syllomus crispatus,species,63978,,Syllomus crispatus,species,63978,Langhian,,15.97,13.82,34996
+929223,occ,,,50944,Chelone n. sp. parvitecta,species,179145,recombined as,Chelonia parvitecta,species,179145,Aquitanian,Burdigalian,23.03,15.97,35435
+973459,occ,,,115694,n. gen. Itilochelys n. sp. rasstrigin,species,197866,,Itilochelys rasstrigin,species,197866,Danian,,66,61.6,37400
+989464,occ,,,119088,Nichollsemys baieri,species,83033,,Nichollsemys baieri,species,83033,Late Campanian,,83.5,70.6,38254
+1013125,occ,,,120885,Puppigerus nessovi,species,316512,subjective synonym of,Puppigerus camperi,species,313939,Lutetian,,47.8,41.3,39898
+1033759,occ,,,126602,Chelonia n. sp. marylandica,species,83312,subjective synonym of,Syllomus aegyptiacus,species,83307,Langhian,,15.97,13.82,41094
+1034915,occ,,,84022,Lembonax n. sp. propylaeus,species,231912,,Lembonax propylaeus,species,231912,Bartonian,,41.3,38,41175
+1034916,occ,,,123512,Lembonax n. sp. insularis,species,231913,recombined as,Eosphargis insularis,species,231913,Thanetian,,59.2,56,41175
+1034920,occ,,,109024,Catapleura n. sp. ruhoffi,species,231920,recombined as,Tasbacka ruhoffi,species,231920,Late Paleocene,,58.7,55.8,731
+1045199,occ,,,37596,Toxocheloides n. sp. narynensis,species,238132,,Toxocheloides narynensis,species,238132,Callovian,,166.1,163.5,41931
+1049686,occ,,,129271,n. gen. Mesodermochelys n. sp. undulatus,species,239568,,Mesodermochelys undulatus,species,239568,Early Maastrichtian,,70.6,66,42111
+1049687,occ,,,129272,Mesodermochelys undulatus,species,239568,,Mesodermochelys undulatus,species,239568,Early Maastrichtian,,70.6,66,42111
+1049688,occ,,,129273,Mesodermochelys undulatus,species,239568,,Mesodermochelys undulatus,species,239568,Early Maastrichtian,,70.6,66,42111
+1049689,occ,,,129274,Mesodermochelys undulatus,species,239568,,Mesodermochelys undulatus,species,239568,Early Maastrichtian,,70.6,66,42111
+1049690,occ,,,129275,Mesodermochelys undulatus,species,239568,,Mesodermochelys undulatus,species,239568,Early Maastrichtian,,70.6,66,42111
+1049691,occ,,,129276,Mesodermochelys undulatus,species,239568,,Mesodermochelys undulatus,species,239568,Early Maastrichtian,,70.6,66,42111
+1049692,occ,,,129277,Mesodermochelys undulatus,species,239568,,Mesodermochelys undulatus,species,239568,Early Maastrichtian,,70.6,66,42111
+1049693,occ,,,129278,Mesodermochelys undulatus,species,239568,,Mesodermochelys undulatus,species,239568,Early Maastrichtian,,70.6,66,42111
+1049723,occ,,,110465,n. gen. Bouliachelys n. sp. suteri,species,239570,,Bouliachelys suteri,species,239570,Late Albian,,105.3,99.6,42112
+1049733,occ,,,129288,Bouliachelys suteri,species,239570,,Bouliachelys suteri,species,239570,Late Albian,,105.3,99.6,42112
+1058856,occ,,,88034,Lytoloma jeanesii,species,241953,,Lytoloma jeanesii,species,241953,Late Maastrichtian,,70.6,66,14442
+1074690,occ,32845,,68021,"""Chelonia"" gwinneri",species,288214,,Chelonia gwinneri,species,288214,Rupelian,,33.9,28.1,60711
+1088222,occ,,,136745,Rhinochelys pulchriceps,species,235083,,Rhinochelys pulchriceps,species,156268,Early Turonian,Early Coniacian,93.5,85.8,44320
+1092516,occ,,,137412,Chelone n. sp. pulchriceps,species,156268,recombined as,Rhinochelys pulchriceps,species,156268,Late Albian,,105.3,99.6,14071
+1095605,occ,,,138297,Allopleuron cf. hofmanni,species,255079,"misspelling of, obsolete variant of",Allopleuron hoffmanni,species,255079,Turonian,,93.9,89.8,44226
+1095606,occ,,,31993,Allopleuron cf. hofmanni,species,255079,"misspelling of, obsolete variant of",Allopleuron hoffmanni,species,255079,Late Campanian,,83.5,70.6,44226
+1095607,occ,,,138298,Allopleuron cf. hofmanni,species,255079,"misspelling of, obsolete variant of",Allopleuron hoffmanni,species,255079,Early Campanian,,83.5,70.6,44226
+1095670,occ,,,113115,Allopleuron qazaqstanense,species,255081,,Allopleuron qazaqstanense,species,255081,Bartonian,,41.3,38,44226
+1095743,occ,,,138309,Oertelia gigantea,species,255124,,Oertelia gigantea,species,128361,Early Aptian,,125.45,122.46,44232
+1106419,occ,,,139918,Cratochelone berneyi,species,259783,,Cratochelone berneyi,species,259783,Middle Albian,Late Albian,109,99.6,45091
+1123351,occ,,,83311,Tasbacka n. sp. ouledabdounensis,species,264913,,Tasbacka ouledabdounensis,species,264913,Danian,,66,61.6,46215
+1154566,occ,,,147801,n. gen. Ocepechelon n. sp. bouyai,species,273630,,Ocepechelon bouyai,species,273630,Late Maastrichtian,,70.6,66,47545
+1155929,occ,,R,73137,Psephophorus polygonus,species,317849,,Psephophorus polygonus,species,317849,Badenian,,13.65,12.7,47582
+1155929,occ,34695,,73137,Psephophorus polygonus,species,317849,,Psephophorus polygonus,species,317849,Badenian,,13.65,12.7,65672
+1176604,occ,,R,151620,Thalassochelys n. sp. phosphatica,species,280081,,Thalassochelys phosphatica,species,280081,Early Eocene,,55.8,48.6,48463
+1176604,occ,32507,,151620,Lytoloma n. sp. elegans,species,344463,,Lytoloma elegans,species,344463,Early Eocene,,55.8,48.6,59668
+1180624,occ,,,152095,Mesodermochelys undulatus,species,239568,,Mesodermochelys undulatus,species,239568,Early Campanian,,83.5,70.6,48802
+1190126,occ,,,153565,n. gen. Alienochelys n. sp. selloumi,species,286869,,Alienochelys selloumi,species,286869,Late Maastrichtian,,70.6,66,49619
+1192656,occ,,,48888,Tasbacka aldabergeni,species,264912,,Tasbacka aldabergeni,species,264912,Late Paleocene,,58.7,55.8,49973
+1192657,occ,,,49051,Tasbacka aldabergeni,species,264912,,Tasbacka aldabergeni,species,264912,Ypresian,,56,47.8,49973
+1192731,occ,,,45737,Glarichelys gwinneri,species,288215,recombined as,Chelonia gwinneri,species,288214,Chattian,,28.1,23.03,49973
+1193009,occ,,,124465,Dollochelys n. sp. rogovichi,species,288216,,Dollochelys rogovichi,species,288216,Eocene,,56,33.9,49973
+1193010,occ,,,154180,n. gen. Turgaiscapha n. sp. kushmurunica,species,288218,,Turgaiscapha kushmurunica,species,288218,Late Campanian,,83.5,70.6,49973
+1193102,occ,,,32314,n. gen. Teguliscapha n. sp. rossica,species,288227,,Teguliscapha rossica,species,288227,Late Albian,Cenomanian,105.3,93.9,49973
+1193104,occ,37872,,87947,n. gen. Erquelinnesia n. sp. gosseleti,species,288246,,Erquelinnesia gosseleti,species,288246,Ypresian,,56,47.8,41174
+1194345,occ,,,154345,n. gen. Ashleychelys n. sp. palmeri,species,288961,,Ashleychelys palmeri,species,288961,Rupelian,,33.9,28.1,50198
+1195168,occ,,,60443,Ashleychelys palmeri,species,288961,,Ashleychelys palmeri,species,288961,Chattian,,28.1,23.03,50198
+1195169,occ,,,154579,Ashleychelys palmeri,species,288961,,Ashleychelys palmeri,species,288961,Rupelian,,33.9,28.1,50198
+1196864,occ,,,154803,Archelon n. sp. marshii,species,289813,,Archelon marshii,species,289813,Campanian,,83.6,72.1,50366
+1253552,occ,,,165735,Osteopygis n. sp. salisburgensis,species,313752,recombined as,Tasbacka salisburgensis,species,313752,Ypresian,,56,47.8,54172
+1253931,occ,,,77613,Emys n. sp. camperi,species,313939,recombined as,Puppigerus camperi,species,313939,Lutetian,,47.8,41.3,54216
+1259193,occ,,,124192,cf. Eosphargis gigas,species,63142,,Eosphargis gigas,species,235098,Early Eocene,,55.8,48.6,54562
+1259195,occ,,,124192,Puppigerus camperi,species,313940,,Puppigerus camperi,species,313939,Early Eocene,,55.8,48.6,54562
+1259203,occ,,,167192,Eosphargis insularis,species,316508,,Eosphargis insularis,species,231913,Late Paleocene,,58.7,55.8,54562
+1259229,occ,,,167201,Ashleychelys palmeri,species,288961,,Ashleychelys palmeri,species,288961,Late Oligocene,,28.4,23.03,54562
+1259279,occ,,,49137,Puppigerus n. sp. nessovi,species,316512,subjective synonym of,Puppigerus camperi,species,313939,Bartonian,,41.3,38,54563
+1259287,occ,,,167231,Catapleura n. sp. arkansaw,species,316519,recombined as,Zangerlchelys arkansaw,species,316519,Late Campanian,,83.5,70.6,60504
+1259401,occ,,,165976,Chelone breviceps,species,156270,recombined as,Puppigerus breviceps,species,156270,Ypresian,,56,47.8,54576
+1259402,occ,,,167274,Chelone n. sp. breviceps,species,156270,recombined as,Puppigerus breviceps,species,156270,Ypresian,,56,47.8,54576
+1259403,occ,,,167274,Chelone n. sp. longiceps,species,235263,subjective synonym of,Puppigerus camperi,species,313939,Ypresian,,56,47.8,54576
+1259404,occ,,,165976,Chelone longiceps,species,235263,subjective synonym of,Puppigerus camperi,species,313939,Ypresian,,56,47.8,54576
+1259405,occ,,,167274,Chelone n. sp. latiscutata,species,156273,subjective synonym of,Puppigerus crassicostata,species,235265,Ypresian,,56,47.8,54576
+1259409,occ,,,167275,Chelone n. sp. planimentum,species,156269,recombined as,Erquelinnesia planimenta,species,156269,Ypresian,,56,47.8,54576
+1259681,occ,,R,167345,Psephophorus terrypratchetti,species,317845,,Psephophorus terrypratchetti,species,317845,Bartonian,,41.3,38,54768
+1259681,occ,30959,,167345,n. gen. Maorichelys n. sp. wiffeni,species,316873,,Maorichelys wiffeni,species,316873,Bartonian,,41.3,38,54595
+1262931,occ,,,167710,Psephophorus n. sp. terrypratchetti,species,317845,,Psephophorus terrypratchetti,species,317845,Bortonian,,43,37.2,54768
+1262932,occ,,,167711,Psephophorus terrypratchetti,species,317845,,Psephophorus terrypratchetti,species,317845,Bortonian,Kaiatan,43,36,54768
+1262933,occ,,,167712,Psephophorus terrypratchetti,species,317845,,Psephophorus terrypratchetti,species,317845,Bortonian,,43,37.2,54768
+1262955,occ,,,167718,Egyptemys aff. eocaenus,species,362606,,Egyptemys eocaenus,species,86268,Early Eocene,Middle Eocene,55.8,37.2,54773
+1262956,occ,,,84460,Egyptemys aff. eocaenus,species,362606,,Egyptemys eocaenus,species,86268,Ypresian,,56,47.8,54773
+1263241,occ,,,167780,Lytoloma n. sp. jeanesii,species,241953,,Lytoloma jeanesii,species,241953,Late Maastrichtian,,70.6,66,35435
+1263328,occ,,,167786,n. gen. Osonachelus n. sp. decorata,species,318120,,Osonachelus decorata,species,318120,Bartonian,,41.3,38,54818
+1263329,occ,,,167787,Osonachelus decorata,species,318120,,Osonachelus decorata,species,318120,Bartonian,,41.3,38,54818
+1263337,occ,35195,,167792,Eochelone voltregana,species,377274,,Eochelone voltregana,species,377274,Bartonian,,41.3,38,66923
+1264121,occ,,,167918,n. gen. Archelon n. sp. ischyros,species,128038,,Archelon ischyros,species,128038,Campanian,Early Maastrichtian,83.6,66,54899
+1264134,occ,,,167919,Protostega n. sp. copei,species,128032,recombined as,Microstega copei,species,128032,Late Santonian,Early Campanian,85.8,70.6,54902
+1265907,occ,,,113116,"""Allopleuron"" qazaqstanense",species,255081,,Allopleuron qazaqstanense,species,255081,Bartonian,,41.3,38,55059
+1281812,occ,,,170239,n. gen. Gigantatypus n. sp. salahi,species,322199,,Gigantatypus salahi,species,322199,Late Maastrichtian,,70.6,66,55540
+1304983,occ,,R,174689,Glarichelys knorri,species,437456,,Glarichelys knorri,species,358385,Rupelian,,33.9,28.1,56725
+1304983,occ,34709,,174689,Glarichelys cf. knorri,species,437456,,Glarichelys knorri,species,358385,Rupelian,,33.9,28.1,65727
+1306426,occ,,,32906,n. gen. Cosmochelys n. sp. dolloi,species,80841,,Cosmochelys dolloi,species,80841,Bartonian,,41.3,38,8818
+1308496,occ,,,175523,Caretta caretta,species,173404,,Caretta caretta,species,173403,Holocene,,0.0117,0,57380
+1317173,occ,,,176841,Eochelone n. sp. monstigris,species,337573,,Eochelone monstigris,species,337573,Late Eocene,,37.2,33.9,58365
+1317509,occ,,,176937,Puppigerus ? camperi,species,313940,,Puppigerus camperi,species,313939,Ypresian,,56,47.8,58397
+1320601,occ,,,39643,Trachyaspis n. sp. hantoniensis,species,235427,,Trachyaspis hantoniensis,species,235427,Priabonian,,38,33.9,58741
+1331947,occ,,,91363,Puppigerus camperi,species,313940,,Puppigerus camperi,species,313939,Ypresian,,56,47.8,54190
+1331948,occ,,,167275,Chelone n. sp. crassicostata,species,235265,recombined as,Puppigerus crassicostata,species,235265,Ypresian,,56,47.8,41531
+1331949,occ,,,178051,Lytoloma crassicostatum,species,235266,recombined as,Puppigerus crassicostata,species,235265,Ypresian,,56,47.8,41531
+1334452,occ,,,151620,Lytoloma n. sp. crassa,species,344462,,Lytoloma crassa,species,344462,Early Eocene,,55.8,48.6,59668
+1340080,occ,,,55986,Desmatochelys lowi,species,393402,"misspelling of, obsolete variant of",Desmatochelys lowii,species,173417,Middle Turonian,,93.5,89.3,60108
+1340272,occ,,,60339,Psephophorus ? n. sp. oregonensis,species,317852,recombined as,Egyptemys oregonensis,species,317852,Burdigalian,,20.44,15.97,60118
+1342868,occ,,,181660,Psephophorus pseudostracion,species,317850,,Psephophorus pseudostracion,species,317850,Pliocene,,5.333,2.588,60047
+1344280,occ,,,181902,Desmatochelys lowi,species,393402,"misspelling of, obsolete variant of",Desmatochelys lowii,species,173417,Turonian,,93.9,89.8,60505
+1361766,occ,,,57700,Syllomus aegyptiacus,species,83307,,Syllomus aegyptiacus,species,83307,Langhian,,15.97,13.82,62139
+1364223,occ,,,176544,Desmatochelys n. sp. padillai,species,353086,,Desmatochelys padillai,species,353086,Late Barremian,Early Aptian,130,122.46,58156
+1372042,occ,,,79793,Psephophorus calvertensis,species,83314,subjective synonym of,Psephophorus polygonus,species,317849,Langhian,,15.97,13.82,62831
+1372043,occ,,,79793,Trachyaspis lardyi,species,235426,,Trachyaspis lardyi,species,235426,Langhian,,15.97,13.82,62831
+1372089,occ,,,187324,Trachyaspis lardyi,species,235426,,Trachyaspis lardyi,species,235426,Langhian,,15.97,13.82,62831
+1372136,occ,,,126605,Trachyaspis lardyi,species,235426,,Trachyaspis lardyi,species,235426,Serravallian,,13.82,11.62,62831
+1372182,occ,,,152251,Psephophorus calvertensis,species,83314,subjective synonym of,Psephophorus polygonus,species,317849,Tortonian,,11.62,7.246,62831
+1372760,occ,,,113962,Chelonia n. sp. oligocena,species,358066,,Chelonia oligocena,species,358066,Rupelian,,33.9,28.1,62863
+1373833,occ,,,187559,Glarichelys knorri,species,437456,,Glarichelys knorri,species,358385,Priabonian,Rupelian,38,28.1,62940
+1374203,occ,,,46097,Psephophorus cf. rupeliensis,species,317853,,Psephophorus rupeliensis,species,317853,MP 22,,33.9,28.4,62970
+1374204,occ,,,46097,Chelyopsis halleri,species,358384,,Chelyopsis halleri,species,358384,MP 22,,33.9,28.4,62970
+1374205,occ,,,46086,Chelyopsis n. sp. raabei,species,358386,,Chelyopsis raabei,species,358386,Bartonian,Priabonian,41.3,33.9,62970
+1374206,occ,,,91095,Chelyopsis holsaticus,species,358387,,Chelyopsis holsaticus,species,358387,Rupelian,,33.9,28.1,62970
+1374209,occ,,,138726,n. gen. Allopleuron n. sp. hoffmanni,species,359359,"misspelling of, obsolete variant of",Chelonia hoffmanni,species,235145,Late Maastrichtian,,70.6,66,62970
+1374212,occ,,,46097,Allopleuron n. sp. lipsiensis,species,255080,,Allopleuron lipsiensis,species,255080,MP 22,,33.9,28.4,62970
+1374213,occ,,,46094,Allopleuron lipsiensis,species,255080,,Allopleuron lipsiensis,species,255080,Rupelian,,33.9,28.1,62970
+1377877,occ,,,188444,Eosphargis gigas,species,63142,,Eosphargis gigas,species,235098,Ypresian,,56,47.8,29875
+1377878,occ,,,167274,Chelone n. sp. gigas,species,235098,recombined as,Eosphargis gigas,species,235098,Ypresian,,56,47.8,29875
+1377880,occ,,,124459,Emys camperi,species,313939,recombined as,Puppigerus camperi,species,313939,Lutetian,,47.8,41.3,29875
+1377882,occ,,,188446,n. gen. Eochelone n. sp. brabantica,species,359391,,Eochelone brabantica,species,359391,Lutetian,,47.8,41.3,29875
+1377888,occ,,,188451,Lytoloma n. sp. bruxelliensis,species,359389,,Lytoloma bruxelliensis,species,359389,Lutetian,,47.8,41.3,29875
+1380628,occ,,,188996,Kimurachelys slobodae,species,361368,,Kimurachelys slobodae,species,361368,Late Campanian,,83.5,70.6,56093
+1380630,occ,,,188997,Kimurachelys slobodae,species,361368,,Kimurachelys slobodae,species,361368,Late Campanian,,83.5,70.6,56093
+1380631,occ,34046,,188998,Kimurachelys slobodae,species,361368,,Kimurachelys slobodae,species,361368,Late Campanian,,83.5,70.6,56093
+1380895,occ,,,63325,Rhinochelys n. sp. amaberti,species,361541,,Rhinochelys amaberti,species,361541,Late Albian,,105.3,99.6,63505
+1382155,occ,,,67711,Tasbacka n. sp. danica,species,362244,,Tasbacka danica,species,362244,Ypresian,,56,47.8,63621
+1382181,occ,,,50944,n. gen. Lembonax n. sp. polemicus,species,179138,,Lembonax polemicus,species,179138,Aquitanian,Burdigalian,23.03,15.97,35435
+1382967,occ,,,62468,Psephophorus n. sp. eocaenus,species,86268,recombined as,Egyptemys eocaenus,species,86268,Late Eocene,,37.2,33.9,63701
+1382968,occ,,,189536,n. gen. Natemys n. sp. peruvianus,species,362616,,Natemys peruvianus,species,362616,Late Oligocene,,28.4,23.03,63701
+1382969,occ,,,52047,"""Psephophorus"" rupeliensis",species,317853,,Psephophorus rupeliensis,species,317853,Rupelian,,33.9,28.1,63701
+1383334,occ,,,189577,n. gen. Rupelchelys n. sp. breitkreutzi,species,362856,,Rupelchelys breitkreutzi,species,362856,Rupelian,,33.9,28.1,63725
+1384198,occ,,,82060,Cabindachelys landanensis,species,363169,,Cabindachelys landanensis,species,363169,Selandian,,61.6,59.2,63791
+1386614,occ,,,190541,n. gen. Atlantochelys n. sp. mortoni,species,364099,,Atlantochelys mortoni,species,364099,Late Campanian,Early Maastrichtian,83.5,66,64071
+1388254,occ,,,190828,Dollochelys sensu lato rogovichi,species,288216,,Dollochelys rogovichi,species,288216,Lutetian,Bartonian,47.8,38,64144
+1388408,occ,34446,,190853,Psephophorus polygonus,species,317849,,Psephophorus polygonus,species,317849,Langhian,Serravallian,15.97,11.62,64633
+1388412,occ,,,47125,Testudo n. sp. varicosa,species,363170,subjective synonym of,Trachyaspis lardyi,species,235426,Burdigalian,Messinian,20.44,5.333,64157
+1388414,occ,,,47125,Psephophorus polygonus,species,317849,,Psephophorus polygonus,species,317849,Burdigalian,Messinian,20.44,5.333,64157
+1389571,occ,,,85294,n. gen. Cynocercus n. sp. incisus,species,128360,,Cynocercus incisus,species,128360,Coniacian,Santonian,89.8,83.6,64402
+1391621,occ,,,52258,Chelone n. sp. costata,species,234797,,Chelone costata,species,234797,Late Valanginian,,140.2,136.4,41527
+1391893,occ,,,191623,Kurobechelys n. sp. tricarinata,species,151651,,Kurobechelys tricarinata,species,151651,Miocene,,23.03,5.333,64624
+1391903,occ,34448,,191628,n. gen. Protosphargis n. sp. veronensis,species,312335,,Protosphargis veronensis,species,312335,Late Cretaceous,,100.5,66,64639
+1391904,occ,,,191630,Protosphargis veronensis,species,312335,,Protosphargis veronensis,species,312335,Late Cretaceous,,100.5,66,64633
+1391907,occ,,,47187,Trachyaspis lardyi,species,235426,,Trachyaspis lardyi,species,235426,Burdigalian,,20.44,15.97,64633
+1392181,occ,,,98972,Platecarpus n. sp. tuberosus,species,365894,recombined as,Neptunochelys tuberosa,species,365894,Late Santonian,Early Campanian,85.8,70.6,64656
+1392186,occ,,,191693,n. gen. Desmatochelys n. sp. lowii,species,173417,,Desmatochelys lowii,species,173417,Cretaceous,,145,66,64658
+1393986,occ,,,191983,Chelonia ? mydas,species,173399,,Chelonia mydas,species,173398,Holocene,,0.0117,0,64845
+1394002,occ,,,68021,Chelonia n. sp. gwinneri,species,288214,,Chelonia gwinneri,species,288214,Rupelian,,33.9,28.1,64846
+1394009,occ,,,191984,Caretta caretta,species,173404,,Caretta caretta,species,173403,Late Pleistocene,Holocene,0.126,0,64847
+1413457,occ,,,31992,Allopleuron cf. hofmanni,species,255079,"misspelling of, obsolete variant of",Allopleuron hoffmanni,species,255079,Early Campanian,Late Campanian,83.5,70.6,66474
+1417971,occ,,,87903,Propleura n. sp. borealis,species,231906,,Propleura borealis,species,231906,Late Maastrichtian,,70.6,66,66781
+1418322,occ,,,196472,Eosphargis n. sp. breineri,species,376586,,Eosphargis breineri,species,376586,Ypresian,,56,47.8,66815
+1419172,occ,,,167786,Eochelone n. sp. voltregana,species,377274,,Eochelone voltregana,species,377274,Bartonian,,41.3,38,66923
+1419173,occ,,,167787,Eochelone voltregana,species,377274,,Eochelone voltregana,species,377274,Bartonian,,41.3,38,66923
+1419174,occ,,,167790,Eochelone voltregana,species,377274,,Eochelone voltregana,species,377274,Bartonian,,41.3,38,66923
+1419176,occ,,,196695,Eochelone voltregana,species,377274,,Eochelone voltregana,species,377274,Priabonian,,38,33.9,66923
+1419178,occ,,,124457,Eochelone brabantica,species,359391,,Eochelone brabantica,species,359391,Lutetian,,47.8,41.3,66923
+1419180,occ,,R,196698,Thalassochelys n. sp. caretta,species,377282,,Thalassochelys caretta,species,377282,Lutetian,,47.8,41.3,66925
+1425976,occ,,,198220,n. gen. Notochelys n. sp. costata,species,235268,recombined as,Notochelone costata,species,235268,Cretaceous,,145,66,67524
+1426079,occ,,,198243,Protostega n. sp. eaglefordensis,species,128037,,Protostega eaglefordensis,species,128037,Cenomanian,,100.5,93.9,786
+1426272,occ,,,62496,n. gen. Glyptochelone n. sp. suyckerbuyki,species,359362,,Glyptochelone suyckerbuyki,species,359361,Late Maastrichtian,,70.6,66,67559
+1426273,occ,,,3915,Glyptochelone suyckerbuyki,species,359362,,Glyptochelone suyckerbuyki,species,359361,Late Maastrichtian,,70.6,66,67559
+1426344,occ,,,41847,Thalassochelys n. sp. eocaenica,species,235259,,Thalassochelys eocaenica,species,235259,Lutetian,,47.8,41.3,41531
+1426380,occ,,,106501,Thalassochelys n. sp. testei,species,252453,,Thalassochelys testei,species,252453,Ypresian,,56,47.8,66502
+1426381,occ,,,106501,Thalassochelys n. sp. phosphatica,species,280081,,Thalassochelys phosphatica,species,280081,Ypresian,,56,47.8,66502
+1426385,occ,,,94210,Lytoloma n. sp. cantabrigiense,species,235092,,Lytoloma cantabrigiense,species,235092,Late Albian,,105.3,99.6,14159
+1427280,occ,,,198544,Dermochelys coriacea,species,365634,,Dermochelys coriacea,species,364840,Holocene,,0.0117,0,67588
+1427281,occ,,,198545,Dermochelys coriacea,species,365634,,Dermochelys coriacea,species,364840,Holocene,,0.0117,0,67588
+1427360,occ,,,198556,Chelonia mydas,species,173399,,Chelonia mydas,species,173398,Holocene,,0.0117,0,67588
+1427479,occ,,,72029,Desmatochelys padillai,species,353086,,Desmatochelys padillai,species,353086,Barremian,,129.4,125,67599
+1427508,occ,,,167275,Neurochelys n. sp. harvicensis,species,365789,recombined as,Chelonia harvicensis,species,365788,Ypresian,,56,47.8,64631
+1427509,occ,,,32915,Argillochelys n. sp. athersuchi,species,365790,recombined as,Eochelone athersuchi,species,365790,Bartonian,,41.3,38,64631
+1427942,occ,,,94210,Chelone n. sp. jessoni,species,235091,,Chelone jessoni,species,235091,Late Albian,,105.3,99.6,14159
+1427943,occ,,,198610,Chelone girundica,species,235144,,Chelone girundica,species,235144,Middle Miocene,,15.97,11.608,41531
+1443729,occ,,,180790,Corsochelys bentleyi,species,386802,,Corsochelys bentleyi,species,386802,Middle Campanian,,83.5,70.6,68976
+1443771,occ,,,201605,Syllomus aegyptiacus,species,83307,,Syllomus aegyptiacus,species,83307,Middle Miocene,,15.97,11.608,68981
+1443821,occ,,,79363,Corsochelys n. sp. bentleyi,species,386802,,Corsochelys bentleyi,species,386802,Middle Campanian,Late Campanian,83.5,70.6,68976
+1445012,occ,,,201737,Desmatochelys cf. lowii,species,173417,,Desmatochelys lowii,species,173417,Campanian,,83.6,72.1,69039
+1457974,occ,,,203526,n. gen. Cabindachelys n. sp. landanensis,species,363169,,Cabindachelys landanensis,species,363169,Selandian,,61.6,59.2,63791
+1459709,occ,,,190541,Protostega n. sp. neptunia,species,365895,objective synonym of,Atlantochelys mortoni,species,364099,Late Campanian,Early Maastrichtian,83.5,66,64656
+1459710,occ,,,203740,n. gen. Protostega n. sp. gigas,species,96952,,Protostega gigas,species,96952,Late Coniacian,Early Campanian,89.3,70.6,23676
+1459711,occ,,,93225,Protostega gigas,species,96952,,Protostega gigas,species,96952,Late Santonian,Early Campanian,85.8,70.6,14442
+1459713,occ,,,203741,Protostega n. sp. potens,species,128031,subjective synonym of,Protostega gigas,species,96952,Late Santonian,Early Campanian,85.8,70.6,14442
+1459714,occ,,,203742,Protostega n. sp. advena,species,125123,recombined as,Chelosphargis advena,species,125123,Senonian,,89.3,66,14442
+1506027,occ,,,190169,Psephophorus polygonus,species,317849,,Psephophorus polygonus,species,317849,Tortonian,,11.62,7.246,72450
+1555281,occ,,,20624,Chelonia mydas,species,173399,,Chelonia mydas,species,173398,Rancholabrean,,0.3,0.012,76348
+1558916,occ,,,176812,Mesodermochelys undulatus,species,239568,,Mesodermochelys undulatus,species,239568,Early Maastrichtian,,70.6,66,76677
+1559767,occ,,,167274,Emys n. sp. parkinsonii,species,252031,subjective synonym of,Puppigerus camperi,species,313939,Ypresian,,56,47.8,63677
+1559771,occ,,,165979,Chelone n. sp. trigoniceps,species,235260,subjective synonym of,Puppigerus camperi,species,313939,Lutetian,,47.8,41.3,67602
+1559772,occ,,,186471,Chelonia n. sp. knorri,species,358385,recombined as,Glarichelys knorri,species,358385,Rupelian,,33.9,28.1,63677

@@ -1,0 +1,984 @@
+Data Provider,The Paleobiology Database,,,,,,,,,,,,,,,
+Data Source,The Paleobiology Database,,,,,,,,,,,,,,,
+Data License,Creative Commons CC-BY,,,,,,,,,,,,,,,
+License URL,http://creativecommons.org/licenses/by/4.0/,,,,,,,,,,,,,,,
+Documentation URL,http://paleobiodb.org/data1.2/occs/list_doc.html,,,,,,,,,,,,,,,
+Data URL,http://paleobiodb.org/data1.2/occs/list.csv?datainfo&rowcount&base_name=Elephantidae&taxon_reso=species&ident=all,,,,,,,,,,,,,,,
+Access Time,Wed 2022-02-23 05:54:10 GMT,,,,,,,,,,,,,,,
+Title,PBDB Data Service,,,,,,,,,,,,,,,
+Parameters:,,,,,,,,,,,,,,,,
+,base_name,Elephantidae,,,,,,,,,,,,,,
+,idreso,species,,,,,,,,,,,,,,
+,idtype,all,,,,,,,,,,,,,,
+,timerule,major,,,,,,,,,,,,,,
+,taxon_status,all,,,,,,,,,,,,,,
+Elapsed Time,0.0445,,,,,,,,,,,,,,,
+Records Found,965,,,,,,,,,,,,,,,
+Records Returned,965,,,,,,,,,,,,,,,
+Records:,,,,,,,,,,,,,,,,
+occurrence_no,record_type,reid_no,flags,collection_no,identified_name,identified_rank,identified_no,difference,accepted_name,accepted_rank,accepted_no,early_interval,late_interval,max_ma,min_ma,reference_no
+150888,occ,,,13453,Elephas maximus,species,104147,,Elephas maximus,species,104147,Early Pleistocene,,2.588,0.781,6075
+151450,occ,,,13490,Elephas trogontherii,species,159796,recombined as,Mammuthus trogontherii,species,159796,Quaternary,Middle Pleistocene,2.588,0.126,10567
+196029,occ,,,20143,Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,2419
+196055,occ,,R,20148,Mammuthus haroldcooki,species,47875,subjective synonym of,Mammuthus hayi,species,44254,Irvingtonian,,1.8,0.3,1870
+196055,occ,9190,,20148,Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,2391
+196127,occ,,,20157,Mammuthus cf. columbi,species,47873,,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,3211
+196167,occ,,,20163,Mammuthus cf. imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,6202
+196741,occ,9308,,20283,Mammuthus cf. hayi,species,47876,,Mammuthus hayi,species,44254,Irvingtonian,,1.8,0.3,6294
+196938,occ,,,20295,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,1907
+197189,occ,,,20310,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,4222
+197259,occ,,R,20318,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,1302
+197259,occ,9438,,20318,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,6294
+197303,occ,,,20322,Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Blancan,,4.9,1.8,2245
+197333,occ,,,20323,Mammuthus cf. imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Irvingtonian,Rancholabrean,1.8,0.012,2018
+197418,occ,,,20339,Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,1794
+197453,occ,,R,20342,Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,1899
+197453,occ,9478,,20342,Mammuthus hayi,species,47876,,Mammuthus hayi,species,44254,Irvingtonian,,1.8,0.3,6294
+197466,occ,9486,,20343,Mammuthus hayi,species,47876,,Mammuthus hayi,species,44254,Irvingtonian,,1.8,0.3,3574
+197504,occ,,,20347,Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,1916
+197601,occ,,,20353,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,3099
+197706,occ,,,20373,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,4222
+197723,occ,,,20375,Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,1916
+197750,occ,,R,20382,Mammuthus haroldcooki,species,47875,subjective synonym of,Mammuthus hayi,species,44254,Irvingtonian,,1.8,0.3,1310
+197750,occ,9550,,20382,Mammuthus hayi,species,47876,,Mammuthus hayi,species,44254,Irvingtonian,,1.8,0.3,6294
+197846,occ,,,20386,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,2854
+197862,occ,,,20387,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,3014
+197925,occ,,,20390,Mammuthus cf. columbi,species,47873,,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,1912
+197960,occ,,R,20396,Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,3378
+197960,occ,9605,,20396,Mammuthus hayi,species,47876,,Mammuthus hayi,species,44254,Irvingtonian,,1.8,0.3,2299
+197967,occ,,R,20397,Mammuthus cf. meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Blancan,Irvingtonian,4.9,0.3,1794
+197967,occ,9607,,20397,Mammuthus cf. hayi,species,47876,,Mammuthus hayi,species,44254,Blancan,Irvingtonian,4.9,0.3,6294
+198017,occ,9623,,20400,Mammuthus hayi,species,47876,,Mammuthus hayi,species,44254,Irvingtonian,,1.8,0.3,3574
+198075,occ,,R,20409,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,2020
+198075,occ,9633,,20409,Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,939
+198076,occ,,R,20409,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Irvingtonian,,1.8,0.3,2020
+198076,occ,9634,,20409,Mammuthus hayi,species,47876,,Mammuthus hayi,species,44254,Irvingtonian,,1.8,0.3,939
+198094,occ,,,20412,Mammuthus cf. imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,3083
+198141,occ,,,20418,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,1200
+198152,occ,,R,20420,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,1302
+198152,occ,9647,,20420,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,6294
+198237,occ,,,20432,Mammuthus hayi,species,47876,,Mammuthus hayi,species,44254,Irvingtonian,,1.8,0.3,3574
+198295,occ,,,20440,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Rancholabrean,,0.3,0.012,2050
+198347,occ,,,20452,Mammuthus cf. columbi,species,47873,,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,2725
+198367,occ,,R,20454,Mammuthus cf. meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Irvingtonian,,1.8,0.3,2725
+198367,occ,9676,,20454,Mammuthus cf. hayi,species,47876,,Mammuthus hayi,species,44254,Irvingtonian,,1.8,0.3,6294
+198449,occ,,,20475,Mammuthus hayi,species,47876,,Mammuthus hayi,species,44254,Irvingtonian,,1.8,0.3,2615
+198551,occ,,R,20482,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Irvingtonian,,1.8,0.3,3567
+198551,occ,9719,,20482,Mammuthus hayi,species,47876,,Mammuthus hayi,species,44254,Irvingtonian,,1.8,0.3,6294
+198677,occ,,R,20498,Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,1899
+198677,occ,9741,,20498,Mammuthus hayi,species,47876,,Mammuthus hayi,species,44254,Irvingtonian,,1.8,0.3,6294
+198700,occ,,,20500,Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,1916
+198853,occ,,,20516,Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,3099
+198891,occ,9775,,20522,Mammuthus imperator ?,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,939
+198913,occ,,,20527,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,2018
+198957,occ,9790,,20530,Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,6202
+198978,occ,,,20533,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,1302
+198991,occ,,,20538,Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,2392
+198999,occ,,R,20540,Mammuthus cf. columbi,species,47873,,Mammuthus columbi,species,46017,Blancan,,4.9,1.8,2018
+199009,occ,,,20543,Mammuthus hayi,species,47876,,Mammuthus hayi,species,44254,Irvingtonian,,1.8,0.3,2391
+199011,occ,,,20545,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Irvingtonian,,1.8,0.3,4222
+199012,occ,,R,20546,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Irvingtonian,,1.8,0.3,2320
+199012,occ,9805,,20546,Mammuthus hayi,species,47876,,Mammuthus hayi,species,44254,Irvingtonian,,1.8,0.3,6294
+199016,occ,,,20549,Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,2320
+199165,occ,,,20563,Mammuthus hayi,species,47876,,Mammuthus hayi,species,44254,Irvingtonian,,1.8,0.3,1200
+199197,occ,,,20568,Mammuthus cf. imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,6202
+199225,occ,,R,20569,Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,1936
+199225,occ,9846,,20569,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,6225
+199325,occ,,,20577,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,2654
+199352,occ,,,20581,Parelephas n. sp. floridanus,species,49985,subjective synonym of,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,3132
+199361,occ,,,20585,Mammuthus cf. columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,2018
+199376,occ,,R,20586,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,3192
+199396,occ,,,20590,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,1785
+199408,occ,,,20591,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,1962
+199514,occ,,,20603,Mammuthus cf. imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,2784
+199567,occ,,,20605,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,1907
+199597,occ,,,20609,Mammuthus cf. columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,2018
+199630,occ,,,20613,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,1962
+199647,occ,,,20615,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,1200
+199671,occ,,,20617,Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,1766
+199756,occ,9908,,20626,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,1785
+199851,occ,,,20637,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,2018
+199919,occ,,,20641,Mammuthus cf. columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,2589
+212126,occ,,,21332,Primelephas gomphotheroides,species,227259,subjective synonym of,Primelephas korotorensis,species,227257,Messinian,Piacenzian,7.246,2.588,4648
+212127,occ,,,21332,Stegotetrabelodon orbus,species,159434,,Stegotetrabelodon orbus,species,159434,Messinian,Piacenzian,7.246,2.588,4648
+212390,occ,,,21402,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,10215
+213135,occ,,,21690,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Holocene,,0.0117,0,4792
+213211,occ,,,21692,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Holocene,,0.0117,0,4801
+213323,occ,,,21762,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Piacenzian,,3.6,2.588,4782
+213383,occ,,,21785,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Piacenzian,,3.6,2.588,4782
+213723,occ,,,21878,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Holocene,,0.0117,0,5222
+213838,occ,,,21893,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Middle Pleistocene,Late Pleistocene,0.781,0.0117,5226
+213945,occ,,,21907,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Holocene,,0.0117,0,5221
+214067,occ,,,21923,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,5214
+214100,occ,,,21936,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Holocene,,0.0117,0,5242
+214189,occ,,,21953,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Pleistocene,,2.588,0.0117,5252
+214295,occ,,,21971,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,4945
+214331,occ,,,21974,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,Calabrian,2.588,0.781,4945
+216774,occ,,,22041,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,4478
+216825,occ,,,22064,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,4478
+217040,occ,,,22100,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,Holocene,5.333,0,5319
+217060,occ,,,22104,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,Pleistocene,5.333,0.0117,5335
+217177,occ,,,22130,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Zanclean,Pleistocene,5.333,0.0117,5348
+217202,occ,,,22135,Elephas cf. recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Miocene,Pleistocene,23.03,0.0117,5352
+217207,occ,,,22136,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Zanclean,Pleistocene,5.333,0.0117,5352
+217210,occ,,,22137,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Zanclean,,5.333,3.6,5363
+217222,occ,,,22139,Primelephas cf. gomphotheroides,species,227259,subjective synonym of,Primelephas korotorensis,species,227257,Tortonian,Zanclean,11.62,3.6,5345
+217238,occ,,,22156,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,Holocene,2.588,0,4442
+217268,occ,,,22158,Primelephas gomphotheroides,species,227259,subjective synonym of,Primelephas korotorensis,species,227257,Tortonian,Zanclean,11.62,3.6,4840
+217269,occ,,,22158,Stegotetrabelodon orbus,species,159434,,Stegotetrabelodon orbus,species,159434,Tortonian,Zanclean,11.62,3.6,4840
+217288,occ,,,22158,Stegodon cf. kaisensis,species,162920,,Stegodon kaisensis,species,162920,Tortonian,Zanclean,11.62,3.6,4840
+217298,occ,,,22159,cf. Stegotetrabelodon orbus,species,159434,,Stegotetrabelodon orbus,species,159434,Tortonian,Zanclean,11.62,3.6,4840
+217299,occ,,,22159,cf. Stegodibelodon schneideri,species,159710,,Stegodibelodon schneideri,species,159710,Tortonian,Zanclean,11.62,3.6,4840
+217329,occ,,,22172,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,Holocene,2.588,0,4442
+217338,occ,,,22174,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Zanclean,Early Pleistocene,5.333,0.781,5366
+217372,occ,,,22176,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Zanclean,,5.333,3.6,4442
+217391,occ,,,22177,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,Holocene,2.588,0,4442
+217413,occ,,,22178,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Late Pliocene,Late Pleistocene,3.6,0.0117,5386
+217437,occ,,,22179,Primelephas gomphotheroides,species,227259,subjective synonym of,Primelephas korotorensis,species,227257,Tortonian,Zanclean,11.62,3.6,4840
+217438,occ,,,22179,Stegotetrabelodon orbus,species,159434,,Stegotetrabelodon orbus,species,159434,Tortonian,Zanclean,11.62,3.6,4840
+217487,occ,,,22191,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Pleistocene,Holocene,2.588,0,5283
+217515,occ,,,22197,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Zanclean,Pleistocene,5.333,0.0117,5366
+217880,occ,,,22235,Stegotetrabelodon orbus,species,159434,,Stegotetrabelodon orbus,species,159434,Zanclean,Piacenzian,5.333,2.588,8636
+217935,occ,,,22236,Stegotetrabelodon orbus,species,159434,,Stegotetrabelodon orbus,species,159434,Tortonian,Piacenzian,11.62,2.588,5448
+217965,occ,,,22237,Stegotetrabelodon orbus,species,159434,,Stegotetrabelodon orbus,species,159434,Late Miocene,Piacenzian,11.608,2.588,8636
+217966,occ,,,22237,Primelephas gomphotheroides,species,227259,subjective synonym of,Primelephas korotorensis,species,227257,Late Miocene,Piacenzian,11.608,2.588,8636
+218143,occ,,,22267,Primelephas gomphotheroides,species,227259,subjective synonym of,Primelephas korotorensis,species,227257,Messinian,Calabrian,7.246,0.781,5571
+218151,occ,,,22267,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Messinian,Calabrian,7.246,0.781,5571
+218182,occ,,,22268,Elephas cf. recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,,2.588,0.0117,5562
+218208,occ,,,22269,Elephas cf. recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,Calabrian,2.588,0.781,5574
+218233,occ,,,22270,Elephas cf. recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,,2.588,0.0117,5562
+218336,occ,,,22274,Primelephas gomphotheroides,species,227259,subjective synonym of,Primelephas korotorensis,species,227257,Messinian,,7.246,5.333,5560
+218337,occ,,,22274,Stegotetrabelodon orbus,species,159434,,Stegotetrabelodon orbus,species,159434,Messinian,,7.246,5.333,5560
+218431,occ,,,22277,Primelephas gomphotheroides,species,227259,subjective synonym of,Primelephas korotorensis,species,227257,Zanclean,,5.333,3.6,5563
+218450,occ,,,22278,Primelephas gomphotheroides,species,227259,subjective synonym of,Primelephas korotorensis,species,227257,Zanclean,,5.333,3.6,5563
+218658,occ,,,22321,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,,5.333,2.588,5479
+218681,occ,,,22323,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,Pleistocene,5.333,0.0117,5492
+218695,occ,,,22324,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,Pleistocene,5.333,0.0117,5481
+218719,occ,,,22327,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,Pleistocene,5.333,0.0117,5481
+218740,occ,,,22337,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,5275
+219072,occ,,,22482,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,,2.588,0.0117,5616
+219085,occ,,,22483,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,,2.588,0.0117,5616
+219092,occ,,,22485,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,Pleistocene,5.333,0.0117,5617
+219097,occ,,,22486,Elephas cf. recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,,2.588,0.0117,5617
+219101,occ,,,22487,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,,2.588,0.0117,5617
+219110,occ,,,22488,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,,2.588,0.0117,5618
+219170,occ,,,22491,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,Calabrian,2.588,0.781,5626
+219180,occ,,,22492,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,Calabrian,2.588,0.781,9955
+219191,occ,,,22493,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,Calabrian,2.588,0.781,5627
+219217,occ,,,22496,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,Calabrian,2.588,0.781,9955
+219230,occ,,,22497,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,Calabrian,2.588,0.781,9955
+219248,occ,,,22499,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,5627
+219315,occ,,,22506,Stegodon kaisensis,species,162920,,Stegodon kaisensis,species,162920,Piacenzian,,3.6,2.588,5264
+219543,occ,,,22552,Elephas cf. recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,Calabrian,2.588,0.781,5636
+219560,occ,,,22553,Elephas cf. recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,Calabrian,2.588,0.781,5636
+219571,occ,,,22554,Elephas cf. recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,,2.588,0.0117,5638
+219587,occ,,,22558,Elephas cf. recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,Calabrian,2.588,0.781,5635
+219592,occ,,,22559,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,,5.333,2.588,5640
+219664,occ,,,22577,Elephas cf. recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,Calabrian,2.588,0.781,5636
+219681,occ,,,22578,Elephas cf. recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,Calabrian,2.588,0.781,5636
+219692,occ,,,22579,Elephas cf. recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,,2.588,0.0117,5638
+219708,occ,,,22583,Elephas cf. recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,Calabrian,2.588,0.781,5635
+219768,occ,,,22593,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4948
+219791,occ,,,22595,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4659
+219828,occ,,,22617,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,4468
+219838,occ,,,22621,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,5652
+219854,occ,,,22626,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,4952
+219866,occ,,,22627,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,4478
+220134,occ,,,22702,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Pleistocene,,2.588,0.0117,5674
+220232,occ,,,22728,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Pleistocene,,2.588,0.0117,5674
+220436,occ,,,21871,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Holocene,,0.0117,0,5220
+220721,occ,,,21916,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Pleistocene,,2.588,0.0117,5235
+220787,occ,,,21930,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Holocene,,0.0117,0,5240
+220910,occ,,,21948,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Pleistocene,Holocene,2.588,0,5246
+220954,occ,,,21949,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Pleistocene,Holocene,2.588,0,5248
+220984,occ,,,21950,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Pleistocene,Holocene,2.588,0,5249
+221020,occ,,,21951,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Pleistocene,Holocene,2.588,0,5250
+221055,occ,,,21954,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Pleistocene,,2.588,0.0117,5232
+221068,occ,,,22236,Primelephas gomphotheroides,species,227259,subjective synonym of,Primelephas korotorensis,species,227257,Tortonian,Piacenzian,11.62,2.588,5448
+221378,occ,,,21280,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4454
+221404,occ,,,21282,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4454
+221438,occ,,,21283,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4454
+221473,occ,,,21286,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4454
+221520,occ,,,21291,Elephas cf. recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Late Pliocene,Early Pleistocene,3.6,0.781,4454
+221591,occ,,,21305,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4454
+221681,occ,,,21342,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4454
+221728,occ,,,21344,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Piacenzian,Gelasian,3.6,1.806,4454
+221760,occ,,,21345,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4454
+221768,occ,,,21346,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4454
+221792,occ,,,21347,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,4454
+221821,occ,,,21350,Elephas cf. recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,Calabrian,2.588,0.781,4454
+221848,occ,,,21353,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4454
+221854,occ,,,21353,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4454
+221876,occ,,,21354,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4454
+221887,occ,,,21355,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4454
+221903,occ,,,21356,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4454
+221970,occ,,,21368,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,10215
+222031,occ,,,21370,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Late Pliocene,Calabrian,3.6,0.781,10215
+222032,occ,,,21370,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Late Pliocene,Calabrian,3.6,0.781,10215
+222040,occ,,,21370,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Late Pliocene,Calabrian,3.6,0.781,10215
+222120,occ,,,21398,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,10215
+222200,occ,,,21403,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,10215
+222237,occ,,,21410,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,10215
+222339,occ,,,21425,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Piacenzian,,3.6,2.588,10215
+222430,occ,,,21445,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,Pleistocene,5.333,0.0117,10215
+222463,occ,,,21448,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,Pleistocene,5.333,0.0117,10215
+222524,occ,,,21454,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,Pleistocene,5.333,0.0117,10215
+222563,occ,,,21457,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,10215
+222574,occ,,,21457,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,10215
+222633,occ,,,21461,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,10215
+222704,occ,,,21464,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Late Pliocene,Calabrian,3.6,0.781,10215
+222720,occ,,,21467,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,Pleistocene,5.333,0.0117,10215
+222759,occ,,,21472,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,Pleistocene,5.333,0.0117,10215
+222783,occ,,,21474,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,10215
+222789,occ,,,21475,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,10215
+222856,occ,,,21481,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Piacenzian,,3.6,2.588,10215
+222864,occ,,,21482,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Piacenzian,,3.6,2.588,10215
+222909,occ,,,21486,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,10215
+222922,occ,,,21488,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,10215
+223074,occ,,,21503,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,10215
+223107,occ,,,21504,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,10215
+223216,occ,,,21515,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Late Pliocene,Calabrian,3.6,0.781,10215
+223223,occ,,,21516,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Late Pliocene,Calabrian,3.6,0.781,10215
+223227,occ,,,21521,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,Pleistocene,5.333,0.0117,10215
+223232,occ,,,21541,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+223236,occ,,,21542,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+223241,occ,,,21543,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,5263
+223244,occ,,,21544,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+223253,occ,,,21545,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223324,occ,,,21547,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4447
+223326,occ,,,21548,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+223328,occ,,,21548,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+223332,occ,,,21549,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Piacenzian,,3.6,2.588,4486
+223348,occ,,,21551,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223352,occ,,,21552,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+223360,occ,,,21553,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223374,occ,,,21554,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223384,occ,,,21555,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4447
+223397,occ,,,21557,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4486
+223403,occ,,,21558,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223405,occ,,,21559,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+223411,occ,,,21561,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4447
+223419,occ,,,21562,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223423,occ,,,21563,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223428,occ,,,21564,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4763
+223430,occ,,,21565,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223441,occ,,,21566,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223455,occ,,,21567,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+223474,occ,,,21570,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223482,occ,,,21571,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4763
+223490,occ,,,21573,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4763
+223498,occ,,,21576,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+223510,occ,,,21580,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4486
+223524,occ,,,21584,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+223527,occ,,,21585,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223549,occ,,,21592,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4447
+223552,occ,,,21593,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+223556,occ,,,21594,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+223559,occ,,,21595,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223562,occ,,,21596,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223566,occ,,,21597,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+223567,occ,,,21598,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+223584,occ,,,21604,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+223606,occ,,,21608,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Piacenzian,,3.6,2.588,4769
+223626,occ,,,21609,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+223635,occ,,,21610,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,5263
+223647,occ,,,21612,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+223668,occ,,,21615,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223672,occ,,,21616,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,,5.333,2.588,4768
+223682,occ,,,21618,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4447
+223717,occ,,,21621,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4447
+223729,occ,,,21622,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+223744,occ,,,21625,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4486
+223806,occ,,,21628,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4730
+223826,occ,,,21631,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223838,occ,,,21632,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223881,occ,,,21635,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4447
+223885,occ,,,21636,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Piacenzian,,3.6,2.588,4768
+223888,occ,,,21637,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Piacenzian,,3.6,2.588,4486
+223894,occ,,,21638,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Piacenzian,,3.6,2.588,4769
+223903,occ,,,21640,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Piacenzian,,3.6,2.588,4447
+223918,occ,,,21641,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4486
+223924,occ,,,21642,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4447
+223928,occ,,,21643,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+223933,occ,,,21644,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223937,occ,,,21645,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223944,occ,,,21646,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4763
+223946,occ,,,21647,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4447
+223957,occ,,,21650,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223962,occ,,,21651,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+223969,occ,,,21652,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4447
+224016,occ,,,21657,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+224036,occ,,,21659,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4763
+224040,occ,,,21660,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+224065,occ,,,21664,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+224073,occ,,,21666,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4447
+224093,occ,,,21668,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,5263
+224119,occ,,,21671,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+224124,occ,,,21672,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+224132,occ,,,21673,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4447
+224152,occ,,,21676,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4447
+224162,occ,,,21679,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+224164,occ,,,21680,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+224193,occ,,,21683,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4763
+224205,occ,,,21737,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Zanclean,,5.333,3.6,4768
+224213,occ,,,21738,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+224236,occ,,,21742,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4768
+224245,occ,,,21743,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+224278,occ,,,21751,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+224279,occ,,,21751,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4769
+224288,occ,,,21752,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4763
+224379,occ,,,21767,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Piacenzian,,3.6,2.588,4782
+224387,occ,,,21769,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Piacenzian,,3.6,2.588,4782
+224437,occ,,,21784,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Piacenzian,,3.6,2.588,4782
+224510,occ,,,21791,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,Calabrian,5.333,0.781,4867
+225472,occ,,,21837,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,,2.588,0.0117,4919
+225494,occ,,,21838,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,,2.588,0.0117,4919
+225558,occ,,,21845,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,,2.588,0.0117,4919
+225616,occ,,,21884,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Pleistocene,Holocene,2.588,0,5217
+225714,occ,,,21904,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Holocene,,0.0117,0,5230
+225816,occ,,,21926,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,5232
+225840,occ,,,21928,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,5214
+225862,occ,,,21929,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Pleistocene,,2.588,0.0117,5238
+225934,occ,,,21934,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Holocene,,0.0117,0,5243
+226018,occ,,,21952,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Pleistocene,Holocene,2.588,0,5251
+226267,occ,,,21964,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4447
+226273,occ,,,21965,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4774
+226279,occ,,,21966,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4763
+226312,occ,,,21970,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,5269
+226362,occ,,,21983,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4771
+226379,occ,,,21986,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,5281
+226399,occ,,,21989,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,Calabrian,5.333,0.781,5281
+226422,occ,,,21994,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4764
+226423,occ,,,21994,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4764
+226429,occ,,,21995,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4764
+226435,occ,,,21996,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4763
+226438,occ,,,21997,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4773
+226451,occ,,,21999,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4763
+226462,occ,,,22000,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4773
+226470,occ,,,22001,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4447
+226488,occ,,,22006,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4763
+226503,occ,,,22008,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4764
+226516,occ,,,22011,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4774
+226527,occ,,,22012,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4774
+226537,occ,,,22014,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4447
+226550,occ,,,22015,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4763
+226556,occ,,,22016,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4773
+226569,occ,,,22018,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4447
+226579,occ,,,22020,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4763
+226582,occ,,,22020,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4763
+226593,occ,,,22022,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4764
+226610,occ,,,22023,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4771
+226618,occ,,,22025,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4773
+226624,occ,,,22026,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4763
+226645,occ,,,22034,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Piacenzian,,3.6,2.588,4773
+226650,occ,,,22037,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Piacenzian,,3.6,2.588,4770
+226661,occ,,,22039,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,4776
+226672,occ,,,22042,Primelephas gomphotheroides,species,227259,subjective synonym of,Primelephas korotorensis,species,227257,Miocene,,23.03,5.333,5283
+226741,occ,,,22058,Primelephas gomphotheroides,species,227259,subjective synonym of,Primelephas korotorensis,species,227257,Miocene,Pliocene,23.03,2.588,5283
+226761,occ,,,22062,Primelephas gomphotheroides,species,227259,subjective synonym of,Primelephas korotorensis,species,227257,Miocene,Pliocene,23.03,2.588,5283
+226765,occ,,,22063,Primelephas gomphotheroides,species,227259,subjective synonym of,Primelephas korotorensis,species,227257,Miocene,Pliocene,23.03,2.588,5283
+227102,occ,,,22074,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Pleistocene,Holocene,2.588,0,5325
+227256,occ,,,22088,Stegodon kaisensis,species,162920,,Stegodon kaisensis,species,162920,Pliocene,Pleistocene,5.333,0.0117,5333
+227315,occ,,,22103,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Pleistocene,Holocene,2.588,0,5335
+227393,occ,,,22124,Stegodon kaisensis,species,162920,,Stegodon kaisensis,species,162920,Pliocene,Pleistocene,5.333,0.0117,5333
+227406,occ,,,22132,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Zanclean,,5.333,3.6,5363
+227423,occ,,,22134,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Middle Pleistocene,Late Pleistocene,0.781,0.0117,5352
+227481,occ,,,22161,Stegotetrabelodon orbus,species,159434,,Stegotetrabelodon orbus,species,159434,Tortonian,Zanclean,11.62,3.6,4840
+227482,occ,,,22161,Stegodon cf. kaisensis,species,162920,,Stegodon kaisensis,species,162920,Tortonian,Zanclean,11.62,3.6,4840
+227483,occ,,,22162,Primelephas gomphotheroides,species,227259,subjective synonym of,Primelephas korotorensis,species,227257,Tortonian,Zanclean,11.62,3.6,4442
+227500,occ,,,22167,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Zanclean,Pleistocene,5.333,0.0117,5365
+227501,occ,,,22167,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Zanclean,Pleistocene,5.333,0.0117,5365
+227507,occ,,,22169,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,Holocene,2.588,0,4442
+227508,occ,,,22170,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,Holocene,2.588,0,4442
+227510,occ,,,22172,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,Holocene,2.588,0,4442
+227548,occ,,,22207,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,Pleistocene,5.333,0.0117,5432
+227567,occ,,,22212,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,Pleistocene,5.333,0.0117,5430
+227705,occ,,,22236,Stegotetrabelodon orbus,species,159434,,Stegotetrabelodon orbus,species,159434,Tortonian,Piacenzian,11.62,2.588,5448
+227781,occ,,,22250,Stegodon kaisensis,species,162920,,Stegodon kaisensis,species,162920,Pliocene,,5.333,2.588,5384
+227785,occ,,,22252,Stegodon kaisensis,species,162920,,Stegodon kaisensis,species,162920,Pliocene,,5.333,2.588,5430
+227816,occ,,,22260,Stegodon kaisensis,species,162920,,Stegodon kaisensis,species,162920,Pliocene,,5.333,2.588,5430
+227846,occ,,,22265,Stegodon kaisensis,species,162920,,Stegodon kaisensis,species,162920,Pliocene,,5.333,2.588,5435
+228402,occ,,,22346,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,Pleistocene,5.333,0.0117,5328
+228579,occ,,,22393,Stegodon kaisensis,species,162920,,Stegodon kaisensis,species,162920,Miocene,Pliocene,23.03,2.588,5430
+228695,occ,,,22418,Stegodon kaisensis,species,162920,,Stegodon kaisensis,species,162920,Miocene,Pliocene,23.03,2.588,5433
+228702,occ,,,22420,Stegodon kaisensis,species,162920,,Stegodon kaisensis,species,162920,Miocene,Pliocene,23.03,2.588,5427
+228719,occ,,,22424,Stegodon kaisensis,species,162920,,Stegodon kaisensis,species,162920,Late Miocene,Early Pliocene,11.608,3.6,5384
+228770,occ,,,22437,Stegodon kaisensis,species,162920,,Stegodon kaisensis,species,162920,Miocene,Pliocene,23.03,2.588,5454
+228815,occ,,,22451,Primelephas gomphotheroides,species,227259,subjective synonym of,Primelephas korotorensis,species,227257,Miocene,Pliocene,23.03,2.588,5429
+228870,occ,,,22468,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,5610
+229011,occ,,,22596,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,,2.588,1.806,5276
+229115,occ,,,22614,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,5615
+229137,occ,,,22620,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Calabrian,,1.806,0.781,4948
+229344,occ,,,22724,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,5675
+229391,occ,,,22075,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,Pleistocene,5.333,0.0117,5328
+247334,occ,,,24181,Stegodon kaisensis,species,162920,,Stegodon kaisensis,species,162920,Late Miocene,Early Pliocene,11.608,3.6,6838
+247336,occ,,,24181,Primelephas aff. gomphotheroides,species,227259,subjective synonym of,Primelephas korotorensis,species,227257,Late Miocene,Early Pliocene,11.608,3.6,6838
+339424,occ,,,32053,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Early Pleistocene,,2.588,0.781,10211
+340193,occ,,,32060,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Early Pleistocene,,2.588,0.781,10211
+357135,occ,,,33975,Mammuthus cf. meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,8655
+357229,occ,,,34010,Mammuthus cf. trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,8655
+358621,occ,,,34105,Stegodon cf. trigonocephalus,species,161878,,Stegodon trigonocephalus,species,161878,Middle Pleistocene,,0.781,0.126,8978
+358622,occ,,,34105,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,8978
+358701,occ,,,22241,Stegotetrabelodon orbus,species,159434,,Stegotetrabelodon orbus,species,159434,Tortonian,,11.62,7.246,8636
+358702,occ,,,22241,Primelephas gomphotheroides,species,227259,subjective synonym of,Primelephas korotorensis,species,227257,Tortonian,,11.62,7.246,8636
+360116,occ,,,22242,Stegotetrabelodon orbus,species,159434,,Stegotetrabelodon orbus,species,159434,Tortonian,Piacenzian,11.62,2.588,8636
+360117,occ,,,22242,Elephas n. sp. nawataensis,species,157821,,Elephas nawataensis,species,157821,Tortonian,Piacenzian,11.62,2.588,8636
+361735,occ,,R,34269,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,9009
+361735,occ,13594,,34269,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,14678
+362969,occ,,,34382,Archidiskodon imperator,species,44255,subjective synonym of,Mammuthus columbi,species,46017,Middle Pleistocene,,0.781,0.126,9039
+362970,occ,,,34382,Parelephas columbi,species,49983,recombined as,Mammuthus columbi,species,46017,Middle Pleistocene,,0.781,0.126,9039
+363564,occ,,R,34443,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Pliocene,,5.333,2.588,9043
+363564,occ,10805,,34443,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pliocene,,5.333,2.588,7584
+363618,occ,,,34449,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,9043
+363666,occ,,,34459,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pleistocene,,2.588,0.0117,9073
+364079,occ,,,34507,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Quaternary,,2.588,0,9108
+364080,occ,,,34508,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Quaternary,,2.588,0,9108
+364084,occ,,,34510,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Quaternary,,2.588,0,9108
+364085,occ,,,34511,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Quaternary,,2.588,0,9108
+364086,occ,,,34512,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Quaternary,,2.588,0,9108
+364087,occ,,,34513,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Pleistocene,,2.588,0.0117,9108
+364234,occ,,,34536,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,9116
+365308,occ,,R,34614,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Villanyian,,3.2,2.588,9135
+366417,occ,,R,34693,Archidiskodon n. sp. weifangensis,species,54396,,Archidiskodon weifangensis,species,54396,Middle Pleistocene,Late Pleistocene,0.781,0.0117,9190
+367517,occ,,,34763,Mammuthus cf. meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Villanyian,Pleistocene,3.2,0.0117,9135
+367536,occ,,,34764,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,Pleistocene,2.588,0.0117,9135
+367679,occ,,,34781,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,9135
+367970,occ,,,34809,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pleistocene,,2.588,0.0117,9135
+367985,occ,,,34812,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pliocene,Pleistocene,5.333,0.0117,9135
+367986,occ,,,34812,Mammuthus cf. meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pliocene,Pleistocene,5.333,0.0117,9135
+369003,occ,,,34898,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,9343
+369040,occ,,,34911,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,9372
+369635,occ,,,34943,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,9388
+369701,occ,,,34985,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,9390
+370055,occ,,,35038,cf. Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pliocene,Pleistocene,5.333,0.0117,9441
+370535,occ,,,35078,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Calabrian,Middle Pleistocene,1.806,0.126,9441
+374358,occ,,R,35374,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Villanyian,,3.2,2.588,9534
+374358,occ,10808,,35374,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Villanyian,,3.2,2.588,7584
+374386,occ,,R,35380,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Villanyian,,3.2,2.588,9534
+374386,occ,10809,,35380,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Villanyian,,3.2,2.588,7584
+374391,occ,,R,35381,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Villanyian,,3.2,2.588,9534
+374391,occ,10810,,35381,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Villanyian,,3.2,2.588,7584
+374932,occ,10811,,34583,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Quaternary,,2.588,0,7584
+376045,occ,10812,,35474,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,7584
+379635,occ,,,35906,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,9643
+379671,occ,,,35907,Mammuthus trogontherii ?,species,395360,,Mammuthus trogontherii,species,159796,Early Pleistocene,Middle Pleistocene,2.588,0.126,9643
+380269,occ,,,36006,cf. Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Early Pleistocene,,2.588,0.781,13430
+380315,occ,,,36015,cf. Mammuthus (Archidiskodon) meridionalis,species,47879,recombined as,Mammuthus meridionalis,species,46026,Middle Pleistocene,,0.781,0.126,13430
+380814,occ,,,36134,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,9695
+381182,occ,,,36205,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,9643
+381210,occ,,,36206,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Middle Pleistocene,,0.781,0.126,9643
+381222,occ,,,36207,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,9643
+381408,occ,,,36214,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,9643
+381482,occ,,,36219,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,9643
+384449,occ,,,36584,Stegodon yuanmouensis,species,295390,,Stegodon yuanmouensis,species,295390,Pleistocene,,2.588,0.0117,9810
+387481,occ,,,37024,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pleistocene,,2.588,0.0117,9913
+388534,occ,,,22494,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,Calabrian,2.588,0.781,9955
+395200,occ,,,22498,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Gelasian,Calabrian,2.588,0.781,9955
+395347,occ,,,38039,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,,2.588,0.0117,4918
+396591,occ,,,21462,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Late Pliocene,Calabrian,3.6,0.781,10215
+408427,occ,,,39314,Mammuthus cf. trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Pleistocene,,2.588,0.0117,10617
+408503,occ,,,39321,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,10617
+410304,occ,,R,36007,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,10660
+410304,occ,10815,,36007,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,7584
+412047,occ,,,39844,Mammuthus (Archidiskodon) meridionalis,species,47879,recombined as,Mammuthus meridionalis,species,46026,Pliocene,,5.333,2.588,10805
+412049,occ,,R,39845,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Pliocene,,5.333,2.588,11025
+412049,occ,11053,,39845,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pliocene,,5.333,2.588,10805
+412059,occ,,R,39846,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Pliocene,,5.333,2.588,11025
+412059,occ,11058,,39846,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pliocene,,5.333,2.588,10805
+412076,occ,,,39847,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,10805
+412083,occ,,,39850,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,10805
+412251,occ,,,39858,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pleistocene,,2.588,0.0117,10805
+412256,occ,,,39861,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pleistocene,,2.588,0.0117,10805
+412260,occ,,,39865,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,10805
+412264,occ,,,39866,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,10805
+412279,occ,,,39869,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,11201
+412412,occ,,R,39882,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Pliocene,,5.333,2.588,10818
+412412,occ,10816,,39882,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pliocene,,5.333,2.588,7584
+414519,occ,,R,40108,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,10872
+414519,occ,10740,,40108,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,10720
+414524,occ,,,40109,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,10720
+414535,occ,,,40112,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,10873
+415446,occ,,,40258,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,10873
+415450,occ,,,40259,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,10873
+416632,occ,,R,40395,Archidiskodon ex gr. meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Pliocene,,5.333,2.588,10898
+416632,occ,10817,,40395,Mammuthus ex gr. meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pliocene,,5.333,2.588,7584
+416635,occ,,R,40397,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,10898
+416635,occ,10818,,40397,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,7584
+416640,occ,,R,40398,Archidiskodon cf. meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Pleistocene,,2.588,0.0117,10898
+416641,occ,,R,40398,Mammuthus cf. trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Pleistocene,,2.588,0.0117,10898
+416641,occ,10820,,40398,Mammuthus (Mammuthus) aff. trogontherii,species,395360,recombined as,Mammuthus trogontherii,species,159796,Pleistocene,,2.588,0.0117,10904
+417436,occ,,R,40484,Archidiskodon cf. meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,10911
+417436,occ,10831,,40484,Mammuthus cf. meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,7584
+417437,occ,10832,,40485,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,7584
+417521,occ,10833,,40492,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,7584
+417522,occ,10834,,40493,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,7584
+417545,occ,,,40497,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Middle Pleistocene,Late Pleistocene,0.781,0.0117,10916
+417597,occ,,R,40502,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Pleistocene,,2.588,0.0117,10917
+417597,occ,10836,,40502,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pleistocene,,2.588,0.0117,7584
+418315,occ,,R,36112,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,MN 17,,2.588,1.806,13795
+418315,occ,13219,,36112,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,MN 17,,2.588,1.806,10948
+418935,occ,,,34104,Palaeoloxodon cf. antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Pleistocene,,2.588,0.0117,10946
+418961,occ,,,40695,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,10958
+421584,occ,,R,40986,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Pliocene,Pleistocene,5.333,0.0117,11050
+421584,occ,11090,,40986,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pliocene,Pleistocene,5.333,0.0117,10948
+421593,occ,,R,40987,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Pleistocene,,2.588,0.0117,11050
+421593,occ,11094,,40987,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pleistocene,,2.588,0.0117,10948
+421597,occ,,,40989,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,11051
+421608,occ,,,40993,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,11051
+421652,occ,,,40999,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,11051
+421676,occ,,,41002,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,11051
+421687,occ,,,41004,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,11051
+421703,occ,,,41006,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,11051
+421712,occ,,,41007,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,11051
+429194,occ,,,41920,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Middle Pleistocene,,0.781,0.126,11201
+429292,occ,,,41932,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pliocene,,5.333,2.588,11202
+436664,occ,,,42673,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Middle Pleistocene,,0.781,0.126,11350
+439049,occ,,R,42241,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,12548
+439049,occ,11223,,42241,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,11379
+439168,occ,,,42867,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,11380
+440116,occ,,R,43016,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,11400
+440116,occ,11231,,43016,Elephas (Palaeoloxodon) antiquus,species,159795,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,11400
+440127,occ,11238,,43016,Mammuthus (Mammuthus) chosaricus,species,367671,obsolete variant of,Mammuthus chosaricus,species,367671,Middle Pleistocene,,0.781,0.126,11400
+440181,occ,,,43012,Elephas trogontherii,species,159796,recombined as,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,11398
+440186,occ,,,43015,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,11398
+440191,occ,,,43018,Elephas trogontherii,species,159796,recombined as,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,11398
+440192,occ,,,43019,Elephas trogontherii,species,159796,recombined as,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,11398
+443182,occ,,,43650,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,11465
+443183,occ,,R,43650,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Middle Pleistocene,,0.781,0.126,11465
+443183,occ,11432,R,43650,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Middle Pleistocene,,0.781,0.126,11465
+443183,occ,11436,,43650,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Middle Pleistocene,,0.781,0.126,7584
+443257,occ,,,43654,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,11465
+443341,occ,,R,43657,Elephas trogontherii,species,159796,recombined as,Mammuthus trogontherii,species,159796,Middle Pleistocene,Late Pleistocene,0.781,0.0117,11465
+443341,occ,11455,,43657,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,Late Pleistocene,0.781,0.0117,11465
+443406,occ,,,43664,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,11465
+443407,occ,,R,43664,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Middle Pleistocene,,0.781,0.126,11465
+443407,occ,11467,,43664,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Middle Pleistocene,,0.781,0.126,11465
+443796,occ,,,43705,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,11465
+443797,occ,,,40808,Elephas cf. antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,11465
+447647,occ,,,44090,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,11572
+447710,occ,,,44092,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,11576
+448621,occ,,R,44146,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,11585
+448621,occ,12566,,44146,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,9580
+450363,occ,,,44231,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Pliocene,Pleistocene,5.333,0.0117,12548
+457435,occ,,,43020,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Early Pleistocene,,2.588,0.781,11725
+457452,occ,,,45085,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Early Pleistocene,,2.588,0.781,11725
+457460,occ,,,45086,Mammonteus primigenius,species,47863,recombined as,Mammuthus primigenius,species,46027,Early Pleistocene,,2.588,0.781,11725
+457462,occ,,R,45063,Mammonteus primigenius,species,47863,recombined as,Mammuthus primigenius,species,46027,Early Pleistocene,,2.588,0.781,11725
+457462,occ,11725,,45063,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Early Pleistocene,,2.588,0.781,11726
+457464,occ,,R,45067,Mammonteus primigenius,species,47863,recombined as,Mammuthus primigenius,species,46027,Early Pleistocene,,2.588,0.781,11725
+457464,occ,11726,,45067,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Early Pleistocene,,2.588,0.781,11726
+457476,occ,,,45065,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Early Pleistocene,,2.588,0.781,11725
+457491,occ,,R,45069,Mammonteus primigenius,species,47863,recombined as,Mammuthus primigenius,species,46027,Early Pleistocene,,2.588,0.781,11725
+457491,occ,11727,,45069,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Early Pleistocene,,2.588,0.781,11726
+457510,occ,,R,45072,Mammonteus primigenius,species,47863,recombined as,Mammuthus primigenius,species,46027,Early Pleistocene,,2.588,0.781,11725
+457510,occ,11728,,45072,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Early Pleistocene,,2.588,0.781,11726
+458376,occ,,,45173,Elephas cf. columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,11763
+475119,occ,,,47132,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,MN 17,,2.588,1.806,12548
+475200,occ,,R,47150,Elephas (Archidiskodon) meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,MN 17,,2.588,1.806,12578
+475200,occ,12188,,47150,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,MN 17,,2.588,1.806,12548
+475268,occ,,,47188,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,MN 17,,2.588,1.806,12548
+478742,occ,,R,47624,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,MN 17,,2.588,1.806,12548
+479836,occ,,R,47828,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,12802
+479836,occ,12291,,47828,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,9580
+479855,occ,,,47830,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Early Pleistocene,,2.588,0.781,12802
+479871,occ,,,47831,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Early Pleistocene,,2.588,0.781,13065
+485011,occ,,,48555,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Pleistocene,,2.588,0.0117,12957
+485012,occ,,,48555,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Pleistocene,,2.588,0.0117,12957
+485240,occ,,,48592,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,12964
+485300,occ,,,48587,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,12964
+485333,occ,,,48581,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Middle Pleistocene,,0.781,0.126,12964
+487213,occ,,,48859,cf. Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pleistocene,,2.588,0.0117,13025
+487532,occ,,R,48981,Elephas cf. meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,13167
+487532,occ,12559,,48981,Mammuthus cf. meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,9580
+487568,occ,,,48989,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Pliocene,Pleistocene,5.333,0.0117,13054
+488489,occ,,,49086,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pleistocene,,2.588,0.0117,13054
+488491,occ,,R,49087,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,13054
+488491,occ,12457,,49087,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,7009
+488492,occ,,R,49087,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Middle Pleistocene,,0.781,0.126,13054
+488492,occ,12458,,49087,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Middle Pleistocene,,0.781,0.126,7009
+489179,occ,,R,49197,Elephas (Archidiskodon) meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,13792
+489179,occ,12528,R,49197,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,13140
+489179,occ,13213,,49197,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,10948
+489222,occ,,,49212,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,13140
+489306,occ,,,49240,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Pliocene,Pleistocene,5.333,0.0117,13150
+489964,occ,,,49414,Mammuthus (Archidiskodon) meridionalis,species,47879,recombined as,Mammuthus meridionalis,species,46026,MN 17,,2.588,1.806,13151
+492279,occ,,,32105,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,MN 17,,2.588,1.806,13340
+493141,occ,,,49813,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,13378
+493142,occ,,,49813,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,13378
+493160,occ,,,49814,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,13378
+493172,occ,,,49815,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,13378
+493215,occ,,,49816,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,13380
+494602,occ,,,49989,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Middle Pleistocene,,0.781,0.126,13425
+494709,occ,,,49999,Mammuthus cf. trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,13430
+494719,occ,,,50000,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,9643
+494720,occ,,,50000,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Early Pleistocene,,2.588,0.781,9643
+495906,occ,,,50056,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,13430
+496977,occ,,,50193,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Pleistocene,,2.588,0.0117,13430
+497029,occ,,,50196,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,9643
+497030,occ,,,50196,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,9643
+497053,occ,,,34400,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Pleistocene,,2.588,0.0117,9643
+497083,occ,,,50198,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Middle Pleistocene,,0.781,0.126,9643
+497084,occ,,,50198,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,9643
+497129,occ,,,50199,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,9643
+497476,occ,,,50247,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,9643
+497587,occ,,,50257,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,9643
+498809,occ,,R,50342,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Early Pleistocene,,2.588,0.781,13519
+498809,occ,13072,,50342,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,13519
+508674,occ,,,51684,Mammuthus ? meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pliocene,Pleistocene,5.333,0.0117,13759
+512316,occ,,,51817,Elephas (Hesperoloxodon) antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,13795
+558981,occ,,,58089,Mammuthus cf. hayi,species,47876,,Mammuthus hayi,species,44254,Irvingtonian,,1.8,0.3,15601
+569022,occ,,R,59715,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Late Bajocian,Bathonian,171.6,166.1,63413
+583589,occ,,,21695,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Pleistocene,,2.588,0.0117,17685
+596658,occ,,,63217,Mammuthus jeffersoni,species,157594,"misspelling of, subjective synonym of",Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,18195
+596682,occ,,,63218,Mammuthus jeffersoni,species,157594,"misspelling of, subjective synonym of",Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,18196
+598149,occ,,,63386,Mammuthus jeffersoni,species,157594,"misspelling of, subjective synonym of",Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,18196
+598151,occ,,,63388,Mammuthus jeffersoni,species,157594,"misspelling of, subjective synonym of",Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,18196
+598166,occ,,,63389,Mammuthus jeffersoni,species,157594,"misspelling of, subjective synonym of",Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,18196
+598167,occ,,,63390,Mammuthus jeffersoni,species,157594,"misspelling of, subjective synonym of",Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,18196
+598178,occ,,,63391,Mammuthus jeffersoni,species,157594,"misspelling of, subjective synonym of",Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,18196
+598179,occ,,,63392,Mammuthus jeffersoni,species,157594,"misspelling of, subjective synonym of",Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,18196
+598196,occ,,,63394,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,18196
+598729,occ,,,63483,Mammuthus jeffersoni,species,157594,"misspelling of, subjective synonym of",Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,18196
+610356,occ,,,65405,Mammuthus cf. columbi,species,47873,,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,18853
+614665,occ,,,65174,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pleistocene,,2.588,0.0117,15045
+632262,occ,,,68020,cf. Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Middle Pleistocene,,0.781,0.126,19464
+632450,occ,,,68069,Stegodon florensis,species,161882,,Stegodon florensis,species,161881,Middle Pleistocene,,0.781,0.126,19540
+643950,occ,,,69541,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Gelasian,,2.588,1.806,23350
+649208,occ,,,70136,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Rancholabrean,,0.3,0.012,23553
+656680,occ,,,70907,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Pliocene,,5.333,2.588,23775
+659377,occ,,,22139,Primelephas gomphotheroides,species,227259,subjective synonym of,Primelephas korotorensis,species,227257,Tortonian,Zanclean,11.62,3.6,23832
+659379,occ,,,22139,Stegodibelodon schneideri,species,159710,,Stegodibelodon schneideri,species,159710,Tortonian,Zanclean,11.62,3.6,23832
+666292,occ,,,37788,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,24248
+683591,occ,,,73692,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,24706
+684228,occ,,,73757,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,24726
+684229,occ,,,73758,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,24726
+684230,occ,,,73759,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,24726
+684231,occ,,,73760,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,24726
+684232,occ,,,73761,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,24726
+684233,occ,,,73762,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,24726
+684234,occ,,,73763,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,24726
+689855,occ,,,74144,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,1316
+690438,occ,,,74240,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,24936
+691167,occ,,,74471,Archidiskodon imperator,species,44255,subjective synonym of,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,24064
+691266,occ,,,74478,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,24985
+698467,occ,,,75033,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Middle Pleistocene,,0.781,0.126,25309
+698468,occ,,,75034,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,25310
+698469,occ,,,75035,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,25311
+698709,occ,,,75044,Elephas boreus,species,107980,subjective synonym of,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,25314
+699347,occ,,R,56733,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,25341
+699347,occ,19639,,56733,Mammuthus (Archidiskodon) meridionalis,species,47879,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,25340
+713123,occ,,,76508,Elephas cf. meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Late Pliocene,,3.6,2.588,24838
+713147,occ,,,76509,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Late Pliocene,,3.6,2.588,24838
+713148,occ,,,76510,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Late Pliocene,,3.6,2.588,24838
+713670,occ,,,76527,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Gelasian,,2.588,1.806,24838
+713677,occ,,,76529,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Gelasian,,2.588,1.806,24838
+713692,occ,,,76530,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Late Pliocene,,3.6,2.588,24838
+713702,occ,,,76531,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Late Pliocene,,3.6,2.588,24838
+713706,occ,,,76533,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Late Pliocene,,3.6,2.588,24838
+713712,occ,,,76534,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Late Pliocene,,3.6,2.588,24838
+716087,occ,,,76844,Elephas cf. trogontherii,species,159796,recombined as,Mammuthus trogontherii,species,159796,Early Pleistocene,,2.588,0.781,25983
+716088,occ,,,76844,Elephas indicus,species,233496,recombined as,Elephas maximus indicus,subspecies,233496,Early Pleistocene,,2.588,0.781,25983
+724177,occ,,,77773,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Gelasian,,2.588,1.806,26265
+725858,occ,,,77750,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Early Pleistocene,,2.588,0.781,26261
+725876,occ,,,77767,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Gelasian,,2.588,1.806,26261
+725898,occ,,,48093,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Gelasian,,2.588,1.806,26261
+725900,occ,,,78016,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Gelasian,,2.588,1.806,26261
+740484,occ,,,79623,Mammuthus (Parelephas) columbi,species,119566,recombined as,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,26727
+740497,occ,,,79626,Mammuthus (Parelephas) columbi,species,119566,recombined as,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,26730
+740565,occ,,,79632,Parelephas columbi,species,49983,recombined as,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,71494
+768232,occ,,,82056,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,27182
+788257,occ,,,85137,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,28647
+799317,occ,,,86962,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Neogene,,23.03,2.588,12164
+799318,occ,,,86963,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,12164
+829677,occ,,,91527,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,30838
+833229,occ,,,92437,Elephas (Palaeoloxodon) falconeri,species,159780,obsolete variant of,Elephas falconeri,species,159780,Pleistocene,,2.588,0.0117,31146
+833490,occ,,,92494,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,31181
+837591,occ,,,92921,n. gen. Stegodibelodon n. sp. schneideri,species,159710,,Stegodibelodon schneideri,species,159710,Pliocene,,5.333,2.588,31390
+837684,occ,,,33295,Mammuthus lamarmorae,species,159785,,Mammuthus lamarmorae,species,159784,Vallesian,Turolian,11.608,5.333,31399
+837685,occ,,,92951,Mammuthus exilis,species,47874,,Mammuthus exilis,species,46019,Late Pleistocene,,0.126,0.0117,31401
+837735,occ,,,92954,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,31407
+837738,occ,,,92955,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Holocene,,0.0117,0,31408
+838780,occ,,,93103,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,3185
+839963,occ,,,93180,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,31485
+840124,occ,,,93182,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,31487
+841165,occ,,,93246,Parelephas columbi,species,49983,recombined as,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,31522
+841223,occ,,,93251,Elephas columbi ?,species,46017,recombined as,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,31525
+841369,occ,,,93275,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,31540
+841751,occ,,,93333,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,31579
+841774,occ,,,93339,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,31581
+842403,occ,,,93502,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,31642
+842404,occ,,,93504,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,31642
+842405,occ,,,93505,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,31642
+842406,occ,,,93506,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,31642
+842421,occ,,,93508,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,31642
+842422,occ,,,93509,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,31642
+842423,occ,,,93510,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,31642
+842424,occ,,,93511,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,31642
+842425,occ,,,93512,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,31642
+842426,occ,,,93513,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,31642
+842427,occ,,,93514,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,31642
+842428,occ,,,93515,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,31642
+842438,occ,,,93520,Stegodon trigonocephalus,species,161878,,Stegodon trigonocephalus,species,161878,Early Pleistocene,,2.588,0.781,31625
+842450,occ,,,93521,Stegodon trigonocephalus,species,161878,,Stegodon trigonocephalus,species,161878,Middle Pleistocene,,0.781,0.126,31625
+842466,occ,,,93522,Stegodon trigonocephalus,species,161878,,Stegodon trigonocephalus,species,161878,Early Pleistocene,,2.588,0.781,31625
+842483,occ,,,93523,Stegodon trigonocephalus,species,161878,,Stegodon trigonocephalus,species,161878,Late Pleistocene,,0.126,0.0117,31625
+842497,occ,,,93524,Elephas maximus,species,104147,,Elephas maximus,species,104147,Late Pleistocene,,0.126,0.0117,31625
+842513,occ,,,93525,"""Elephas"" celebensis",species,161900,recombined as,Archidiskodon celebensis,species,161899,Late Pliocene,Early Pleistocene,3.6,0.781,31625
+842518,occ,,,93525,Stegodon sompoensis,species,161880,,Stegodon sompoensis,species,161880,Late Pliocene,Early Pleistocene,3.6,0.781,31625
+842781,occ,,,93543,Elephas celebensis,species,161900,recombined as,Archidiskodon celebensis,species,161899,Late Pliocene,,3.6,2.588,31625
+842784,occ,,,93543,Stegodon sompoensis,species,161880,,Stegodon sompoensis,species,161880,Late Pliocene,,3.6,2.588,31625
+842786,occ,,,93545,"""Elephas"" celebensis",species,161900,recombined as,Archidiskodon celebensis,species,161899,Late Pliocene,,3.6,2.588,31625
+842789,occ,,,93546,Stegodon sompoensis,species,161880,,Stegodon sompoensis,species,161880,Late Pliocene,,3.6,2.588,31625
+842790,occ,,,93546,"""Elephas"" celebensis",species,161900,recombined as,Archidiskodon celebensis,species,161899,Late Pliocene,,3.6,2.588,31625
+842800,occ,,,93548,"""Elephas"" celebensis",species,161900,recombined as,Archidiskodon celebensis,species,161899,Late Pliocene,,3.6,2.588,31625
+842840,occ,,,93555,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,31685
+842869,occ,,,93557,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,31687
+843028,occ,,,93599,Mammuthus (Parelephas) columbi,species,119566,recombined as,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,31714
+843165,occ,,,93567,Stegodon sompoensis,species,161880,,Stegodon sompoensis,species,161880,Late Pliocene,Early Pleistocene,3.6,0.781,31625
+843166,occ,,,93622,"""Elephas"" celebensis",species,161900,recombined as,Archidiskodon celebensis,species,161899,Late Pliocene,,3.6,2.588,31625
+843167,occ,,,93623,Stegodon sompoensis,species,161880,,Stegodon sompoensis,species,161880,Late Pliocene,,3.6,2.588,31625
+843172,occ,,,93623,"""Elephas"" celebensis",species,161900,recombined as,Archidiskodon celebensis,species,161899,Late Pliocene,,3.6,2.588,31625
+843173,occ,,,93624,"""Elephas"" celebensis",species,161900,recombined as,Archidiskodon celebensis,species,161899,Late Pliocene,,3.6,2.588,31625
+843174,occ,,,93625,Stegodon sompoensis,species,161880,,Stegodon sompoensis,species,161880,Late Pliocene,,3.6,2.588,31625
+843177,occ,,,93627,Stegodon sompoensis,species,161880,,Stegodon sompoensis,species,161880,Late Pliocene,,3.6,2.588,31625
+843178,occ,,,93628,"""Elephas"" celebensis",species,161900,recombined as,Archidiskodon celebensis,species,161899,Late Pliocene,,3.6,2.588,31625
+843181,occ,,,93630,"""Elephas"" celebensis",species,161900,recombined as,Archidiskodon celebensis,species,161899,Late Pliocene,,3.6,2.588,31625
+843182,occ,,,93631,Stegodon sompoensis,species,161880,,Stegodon sompoensis,species,161880,Late Pliocene,,3.6,2.588,31625
+843186,occ,,,93633,Stegodon sompoensis,species,161880,,Stegodon sompoensis,species,161880,Late Pliocene,,3.6,2.588,31625
+843189,occ,,,93635,"""Elephas"" celebensis",species,161900,recombined as,Archidiskodon celebensis,species,161899,Late Pliocene,,3.6,2.588,31625
+843191,occ,,,93635,Stegodon sompoensis,species,161880,,Stegodon sompoensis,species,161880,Late Pliocene,,3.6,2.588,31625
+843198,occ,,,93639,Mammuthus (Archidiskodon) imperator,species,119568,subjective synonym of,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,24034
+843281,occ,,,93660,Stegodon n. sp. sondaari,species,157815,,Stegodon sondaari,species,157815,Early Pleistocene,,2.588,0.781,31625
+843284,occ,,,93668,Stegodon florensis,species,161882,,Stegodon florensis,species,161881,Middle Pleistocene,,0.781,0.126,31625
+843288,occ,,,93669,Stegodon florensis,species,161882,,Stegodon florensis,species,161881,Middle Pleistocene,,0.781,0.126,31625
+843291,occ,,,93670,Stegodon florensis,species,161882,,Stegodon florensis,species,161881,Middle Pleistocene,,0.781,0.126,31625
+845072,occ,,,22307,Stegodon cf. kaisensis,species,162920,,Stegodon kaisensis,species,162920,Messinian,,7.246,5.333,31949
+847895,occ,,,94323,Stegodon sumbaensis,species,162470,,Stegodon sumbaensis,species,162470,Pleistocene,,2.588,0.0117,32078
+847899,occ,,,94325,Elephas creutzburgi,species,159790,recombined as,Palaeoloxodon creutzburgi,species,159789,Early Pleistocene,Late Pleistocene,2.588,0.0117,32076
+847902,occ,,,94325,Mammuthus creticus,species,388882,,Mammuthus creticus,species,159787,Early Pleistocene,Late Pleistocene,2.588,0.0117,32076
+847915,occ,,,94327,Mammuthus lamarmorae,species,159785,,Mammuthus lamarmorae,species,159784,Late Pliocene,Late Pleistocene,3.6,0.0117,32076
+847930,occ,,,94328,Elephas mnaidriensis,species,159797,recombined as,Palaeoloxodon mnaidriensis,species,159778,Early Pleistocene,Late Pleistocene,2.588,0.0117,32076
+847934,occ,,,94328,Elephas falconeri,species,159780,,Elephas falconeri,species,159780,Early Pleistocene,Late Pleistocene,2.588,0.0117,32076
+847936,occ,,,94329,Elephas cypriotes,species,159794,recombined as,Palaeoloxodon cypriotes,species,159794,Middle Pleistocene,,0.781,0.126,32076
+849601,occ,,,94425,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,32106
+850787,occ,,,94578,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,32187
+851024,occ,,,94612,Stegodon n. sp. luzonensis,species,164278,,Stegodon luzonensis,species,164278,Pleistocene,,2.588,0.0117,32220
+851025,occ,,,94613,Elephas n. sp. beyeri,species,164279,,Elephas beyeri,species,164279,Pleistocene,,2.588,0.0117,32220
+872708,occ,,,96723,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Middle Pleistocene,,0.781,0.126,32997
+872709,occ,,,96723,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,32997
+872729,occ,,,96725,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Pliocene,,5.333,2.588,32997
+872744,occ,,,96729,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Pliocene,,5.333,2.588,32997
+872751,occ,,,96737,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Pliocene,,5.333,2.588,32997
+872752,occ,,,96738,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Pliocene,,5.333,2.588,32997
+872754,occ,,,96738,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Pliocene,,5.333,2.588,32997
+872765,occ,,,96743,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Pliocene,,5.333,2.588,32997
+872767,occ,,,96744,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Pleistocene,,2.588,0.0117,32997
+872768,occ,,,96745,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Pleistocene,,2.588,0.0117,32997
+872769,occ,,,96747,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Pleistocene,,2.588,0.0117,32997
+872867,occ,,,96763,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Pleistocene,,2.588,0.0117,32997
+872880,occ,,,96772,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Pliocene,,5.333,2.588,32997
+872910,occ,,,96782,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Late Pleistocene,,0.126,0.0117,33015
+874102,occ,,,96899,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,33085
+906536,occ,,,101898,Palaeoloxodon naumanni,species,159799,,Palaeoloxodon naumanni,species,159799,Late Pleistocene,,0.126,0.0117,34644
+906596,occ,,,101899,Palaeoloxodon naumanni,species,159799,,Palaeoloxodon naumanni,species,159799,Late Pleistocene,,0.126,0.0117,34644
+914544,occ,,,103794,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,34994
+915383,occ,,,104046,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,15425
+919551,occ,,,103358,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,25320
+935460,occ,,,73726,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,35838
+935480,occ,,,82530,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,35842
+938106,occ,,,102954,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Late Pleistocene,Holocene,0.126,0,35949
+939627,occ,,,20632,Parelephas (Elephas) columbi,species,49983,recombined as,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,35981
+939628,occ,,,108781,Parelephas (Elephas) aff. columbi,species,49983,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,35981
+939629,occ,,,108782,Parelephas (Elephas) columbi,species,49983,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,35981
+939630,occ,,,108783,Parelephas (Elephas) columbi,species,49983,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,35981
+939632,occ,,,108784,Parelephas (Elephas) columbi,species,49983,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,35981
+939635,occ,,,108785,Parelephas (Elephas) columbi,species,49983,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,35981
+939636,occ,,,108786,Parelephas (Elephas) columbi,species,49983,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,35981
+939638,occ,,,108787,Parelephas (Elephas) columbi,species,49983,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,35981
+939642,occ,,,20632,Mammonteus (Elephas) primigenius,species,47863,recombined as,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,35981
+939647,occ,,,108789,Mammonteus (Elephas) primigenius,species,47863,recombined as,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,35981
+939648,occ,,,108790,Mammonteus (Elephas) primigenius,species,47863,recombined as,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,35981
+939650,occ,,,108782,Archidiskodon (Elephas) imperator,species,44255,subjective synonym of,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,35981
+941872,occ,,,109026,Mammuthus cf. columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,36062
+942738,occ,,,103358,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,35550
+945342,occ,,,109703,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,36257
+945355,occ,,,109704,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Middle Pleistocene,,0.781,0.126,36257
+970680,occ,,,21709,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Late Pleistocene,,0.126,0.0117,37298
+970832,occ,,,115167,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Late Pleistocene,,0.126,0.0117,37301
+973721,occ,,,93828,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Late Pleistocene,,0.126,0.0117,37407
+1020803,occ,,,124957,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,40497
+1023258,occ,,,92921,Stegodon n. sp. korotorensis,species,227257,recombined as,Primelephas korotorensis,species,227257,Pliocene,,5.333,2.588,40696
+1023263,occ,,,125346,Primelephas korotorensis,species,227258,,Primelephas korotorensis,species,227257,Messinian,,7.246,5.333,40696
+1023264,occ,,,125347,Primelephas korotorensis,species,227258,,Primelephas korotorensis,species,227257,Messinian,,7.246,5.333,40696
+1023265,occ,,,125348,Primelephas korotorensis,species,227258,,Primelephas korotorensis,species,227257,Messinian,,7.246,5.333,40696
+1023267,occ,,,96047,Primelephas korotorensis,species,227258,,Primelephas korotorensis,species,227257,Zanclean,,5.333,3.6,40696
+1023268,occ,,,125349,Primelephas korotorensis,species,227258,,Primelephas korotorensis,species,227257,Zanclean,,5.333,3.6,40696
+1023269,occ,,,125350,Primelephas korotorensis,species,227258,,Primelephas korotorensis,species,227257,Zanclean,,5.333,3.6,40696
+1023270,occ,,,125351,Primelephas korotorensis,species,227258,,Primelephas korotorensis,species,227257,Zanclean,,5.333,3.6,40696
+1032617,occ,,,126446,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,41023
+1034050,occ,,,126660,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,41113
+1038002,occ,,,127111,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,41304
+1108948,occ,,,140370,Elephas primigenius ?,species,46027,recombined as,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,45424
+1167267,occ,,,150207,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,48063
+1190963,occ,,,73686,Palaeoloxodon naumanni,species,159799,,Palaeoloxodon naumanni,species,159799,Late Pleistocene,,0.126,0.0117,49854
+1196168,occ,,,154722,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,50316
+1196557,occ,,,74292,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,50339
+1196558,occ,,,74292,cf. Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,50339
+1196583,occ,,,154773,Parelephas cf. columbi,species,49983,recombined as,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,3131
+1196906,occ,,,154804,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,50371
+1197872,occ,,,154921,Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,50430
+1201165,occ,,,155393,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,50711
+1208222,occ,,,156789,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,51404
+1243012,occ,,,163820,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Late Pliocene,,3.6,2.588,53461
+1245161,occ,,,164185,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,53569
+1276231,occ,,,169385,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,55350
+1315766,occ,,,176608,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,58186
+1315767,occ,,,176609,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,58186
+1315768,occ,,,176610,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,58186
+1315784,occ,,,176611,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,58186
+1317107,occ,,,84901,Mammuthus exilis,species,47874,,Mammuthus exilis,species,46019,Rancholabrean,,0.3,0.012,58344
+1327684,occ,,,178476,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,59047
+1348301,occ,,,182677,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Pleistocene,,2.588,0.0117,60881
+1348302,occ,,,182678,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Pleistocene,,2.588,0.0117,70269
+1348303,occ,,,182679,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Pleistocene,,2.588,0.0117,60881
+1348306,occ,,,182680,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Pleistocene,,2.588,0.0117,60881
+1348307,occ,,,182681,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Pleistocene,,2.588,0.0117,60881
+1350626,occ,,,183124,Palaeoloxodon creutzburgi,species,388883,,Palaeoloxodon creutzburgi,species,159789,Late Pleistocene,,0.126,0.0117,61125
+1351766,occ,,,183344,cf. Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,61190
+1351776,occ,,,183346,cf. Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,61190
+1353013,occ,,,183454,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,61266
+1353033,occ,,,183460,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Rancholabrean,,0.3,0.012,61266
+1356832,occ,,,184245,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Late Pleistocene,,0.126,0.0117,61580
+1374667,occ,,,187637,Elephas (Palaeoloxodon) antiquus,species,159795,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,63000
+1381612,occ,,,188681,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,63318
+1382028,occ,,,189381,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,63597
+1382029,occ,,,189382,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,63597
+1382030,occ,,,189383,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,63597
+1382031,occ,,,189384,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,63597
+1383208,occ,,,189573,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Middle Miocene,Early Pleistocene,15.97,0.781,63715
+1383229,occ,,,189574,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,63715
+1383231,occ,,,189574,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Early Pleistocene,,2.588,0.781,63715
+1383281,occ,,,189573,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Middle Miocene,Early Pleistocene,15.97,0.781,63715
+1384737,occ,,,189964,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,63867
+1384738,occ,,,189965,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Middle Pleistocene,,0.781,0.126,63868
+1385004,occ,,,190076,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Middle Pleistocene,,0.781,0.126,63917
+1385017,occ,,,190079,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,63921
+1385045,occ,,,190088,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Quaternary,,2.588,0,63929
+1385051,occ,,,190089,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,63929
+1385128,occ,,,190115,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,63932
+1385180,occ,,,190114,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,63840
+1385196,occ,,,190116,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,63840
+1386045,occ,,,190387,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,24940
+1386647,occ,,,190543,Elephas (Euelephas) n. sp. imperator,species,46022,subjective synonym of,Mammuthus columbi,species,46017,Miocene,,23.03,5.333,59118
+1387568,occ,,,190753,Mammuthus cf. columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,3575
+1388447,occ,,,190860,Elephas mnaidriensis,species,159797,recombined as,Palaeoloxodon mnaidriensis,species,159778,Pleistocene,,2.588,0.0117,64165
+1388448,occ,,,190860,Elephas melitensis,species,159779,,Elephas melitensis,species,159779,Pleistocene,,2.588,0.0117,64165
+1388449,occ,,,190860,Elephas falconeri,species,159780,,Elephas falconeri,species,159780,Pleistocene,,2.588,0.0117,64165
+1391726,occ,,,20498,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Irvingtonian,,1.8,0.3,53742
+1394613,occ,,,192043,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Rancholabrean,,0.3,0.012,64914
+1394916,occ,,,70118,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Early Pleistocene,Middle Pleistocene,2.588,0.126,64963
+1394917,occ,,,192090,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,64963
+1401402,occ,,,193126,Palaeoloxodon cf. recki,species,159800,,Palaeoloxodon recki,species,133588,Early Pleistocene,,2.588,0.781,65656
+1410039,occ,,,194477,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,66223
+1410046,occ,,,194472,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,66223
+1410055,occ,,,194474,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,66223
+1410059,occ,,,194475,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,66223
+1411711,occ,,,195045,Palaeoloxodon naumanni,species,159799,,Palaeoloxodon naumanni,species,159799,Late Pleistocene,,0.126,0.0117,34644
+1411719,occ,,,195046,Palaeoloxodon naumanni,species,159799,,Palaeoloxodon naumanni,species,159799,Late Pleistocene,,0.126,0.0117,34644
+1412695,occ,,,195204,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,66368
+1412706,occ,,,77754,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,66368
+1414049,occ,,,59831,n. gen. Selenetherium n. sp. kolleensis,species,374414,,Selenetherium kolleensis,species,374414,Zanclean,,5.333,3.6,60260
+1422103,occ,,,197461,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,9534
+1427954,occ,,,198611,Palaeoloxodon naumanni,species,159799,,Palaeoloxodon naumanni,species,159799,Middle Pleistocene,,0.781,0.126,67639
+1434270,occ,,,200083,Mammuthus (Archidiskodon) meridionalis,species,47879,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,68076
+1434280,occ,,,200084,Mammuthus (Archidiskodon) meridionalis,species,47879,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,68076
+1435971,occ,,,200313,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Rancholabrean,,0.3,0.012,35474
+1450740,occ,,,202421,Elephas n. sp. creticus,species,159787,recombined as,Mammuthus creticus,species,159787,Early Pleistocene,Middle Pleistocene,2.588,0.126,69893
+1450741,occ,,,182809,Elephas n. sp. tiliensis,species,388887,recombined as,Palaeoloxodon tiliensis,species,388887,Late Pleistocene,,0.126,0.0117,69361
+1460596,occ,,,203848,Palaeoloxodon n. sp. lomolinoi,species,388886,,Palaeoloxodon lomolinoi,species,388886,Late Pleistocene,,0.126,0.0117,69853
+1463133,occ,,,204189,Loxodonta n. sp. creutzburgi,species,159789,recombined as,Palaeoloxodon creutzburgi,species,159789,Pleistocene,,2.588,0.0117,69967
+1463600,occ,,,204294,Elephas n. sp. chaniensis,species,159793,subjective synonym of,Palaeoloxodon creutzburgi,species,159789,Late Pleistocene,,0.126,0.0117,70010
+1463606,occ,,,204298,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Pleistocene,,2.588,0.0117,69360
+1463615,occ,,,182811,Loxodonta creutzburgi,species,159789,recombined as,Palaeoloxodon creutzburgi,species,159789,Pleistocene,,2.588,0.0117,69932
+1463633,occ,,R,204086,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Early Pleistocene,Middle Pleistocene,2.588,0.126,69893
+1463633,occ,35936,,204086,Palaeoloxodon creutzburgi,species,388883,,Palaeoloxodon creutzburgi,species,159789,Early Pleistocene,Middle Pleistocene,2.588,0.126,69360
+1463634,occ,,R,204188,Elephas cf. antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Pleistocene,,2.588,0.0117,70012
+1463634,occ,35938,,204188,Palaeoloxodon creutzburgi,species,388883,,Palaeoloxodon creutzburgi,species,159789,Pleistocene,,2.588,0.0117,69360
+1463635,occ,,,204305,Elephas cf. antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Late Pleistocene,,0.126,0.0117,70012
+1463649,occ,,,204308,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Pleistocene,,2.588,0.0117,70013
+1464053,occ,,,204040,Palaeoloxodon creutzburgi,species,388883,,Palaeoloxodon creutzburgi,species,159789,Pleistocene,,2.588,0.0117,69360
+1464055,occ,,,204299,Loxodonta creutzburgi,species,159789,recombined as,Palaeoloxodon creutzburgi,species,159789,Middle Pleistocene,Late Pleistocene,0.781,0.0117,69904
+1464167,occ,,,204391,Mammuthus cf. primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,70062
+1464181,occ,,,204397,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Late Pleistocene,,0.126,0.0117,70063
+1464204,occ,,,204402,cf. Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Late Pleistocene,,0.126,0.0117,70070
+1464206,occ,,,204403,Elephas (Palaeoloxodon) n. sp. cephallonicus,species,394779,,Elephas (Palaeoloxodon) cephallonicus,species,394779,Late Pleistocene,,0.126,0.0117,70072
+1465257,occ,,,204546,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,70141
+1465262,occ,,,204549,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,Late Pleistocene,0.781,0.0117,70144
+1465263,occ,,,204550,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,Late Pleistocene,0.781,0.0117,70146
+1465312,occ,,,204552,Elephas (Palaeoloxodon) antiquus,species,159795,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,Late Pleistocene,0.781,0.0117,70147
+1465313,occ,,,204553,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,Late Pleistocene,0.781,0.0117,70148
+1465314,occ,,,204554,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,Late Pleistocene,0.781,0.0117,70148
+1465317,occ,,,204555,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,Late Pleistocene,0.781,0.0117,70150
+1465318,occ,,,204556,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,Late Pleistocene,0.781,0.0117,70151
+1465319,occ,,,204557,Elephas (Palaeoloxodon) antiquus,species,159795,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,70152
+1465330,occ,,,204561,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,70156
+1465653,occ,,,204660,Mammuthus cf. meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Late Pliocene,,3.6,2.588,70227
+1465656,occ,,,204661,Mammuthus cf. meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Pliocene,Pleistocene,5.333,0.0117,70229
+1465664,occ,,,204662,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,70230
+1466138,occ,,,204740,Elephas (Archidiskodon) meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,70266
+1466140,occ,,,204742,Elephas (Archidiscodon) meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,70268
+1466141,occ,,,204743,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,Late Pleistocene,0.781,0.0117,70269
+1466142,occ,,,204744,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,Late Pleistocene,0.781,0.0117,70269
+1466145,occ,,,182678,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Pleistocene,,2.588,0.0117,60881
+1466148,occ,,,204747,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,70270
+1466150,occ,,,204749,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,70270
+1466151,occ,,,204750,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,70270
+1466152,occ,,,204751,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Middle Pleistocene,,0.781,0.126,70270
+1466154,occ,,R,204753,Elephas (Palaeoloxodon) aff. antiquus,species,159795,recombined as,Palaeoloxodon antiquus,species,159781,Late Pleistocene,,0.126,0.0117,70271
+1466154,occ,35982,,204753,Elephas antiquus,species,159781,recombined as,Palaeoloxodon antiquus,species,159781,Late Pleistocene,,0.126,0.0117,60881
+1466155,occ,,,204754,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Middle Pleistocene,Late Pleistocene,0.781,0.0117,70273
+1466557,occ,,,204804,Elephas meridionalis,species,46026,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,70295
+1466562,occ,,,204807,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,Late Pleistocene,0.781,0.0117,70296
+1466563,occ,,,204808,Archidiskodon meridionalis,species,44256,recombined as,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,70296
+1466628,occ,,,34770,Elephas (Palaeoloxodon) antiquus,species,159795,recombined as,Palaeoloxodon antiquus,species,159781,Early Pleistocene,,2.588,0.781,70297
+1467244,occ,,,204933,Mammuthus cf. meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,70228
+1486225,occ,,,197163,Mammuthus cf. meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Middle Pleistocene,Holocene,0.781,0,71103
+1488704,occ,,,207130,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,61193
+1490849,occ,,,85140,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,71439
+1491075,occ,,R,85142,Elephas cf. columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,71451
+1491075,occ,36430,,85142,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,71453
+1491099,occ,36571,,207422,Parelephas columbi,species,49983,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,71494
+1491101,occ,36555,,207423,Parelephas columbi,species,49983,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,71494
+1491380,occ,,,207465,Parelephas columbi,species,49983,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,71468
+1500049,occ,,,208786,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Holocene,,0.0117,0,72065
+1500107,occ,,,208787,Loxodonta africana,species,157818,,Loxodonta africana,species,157817,Holocene,,0.0117,0,72065
+1504390,occ,,,209718,Mammuthus cf. hayi,species,47876,,Mammuthus hayi,species,44254,Irvingtonian,,1.8,0.3,72337
+1504486,occ,,,209750,Elephas recki,species,133588,recombined as,Palaeoloxodon recki,species,133588,Middle Pleistocene,,0.781,0.126,72354
+1519603,occ,,,20285,Mammuthus imperator,species,47877,subjective synonym of,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,69885
+1531973,occ,,,214540,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Late Pleistocene,,0.126,0.0117,73992
+1533592,occ,,,144638,Stegotetrabelodon n. sp. syrticus,species,159433,,Stegotetrabelodon syrticus,species,159433,Messinian,,7.246,5.333,33114
+1533637,occ,,,215201,Stegotetrabelodon syrticus,species,159433,,Stegotetrabelodon syrticus,species,159433,Serravallian,,13.82,11.62,73981
+1533679,occ,,,215217,Stegotetrabelodon syrticus,species,159433,,Stegotetrabelodon syrticus,species,159433,Tortonian,,11.62,7.246,31396
+1539090,occ,,,216260,Mammuthus primigenius,species,47880,,Mammuthus primigenius,species,46027,Late Pleistocene,,0.126,0.0117,74696
+1568119,occ,,,205285,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Late Pleistocene,,0.126,0.0117,77543
+1568188,occ,,,221415,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Late Pleistocene,,0.126,0.0117,77543
+1568206,occ,,,221416,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Late Pleistocene,,0.126,0.0117,77543
+1568241,occ,,,221421,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,77543
+1568253,occ,,,221422,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,77543
+1568286,occ,,,221425,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,77543
+1568299,occ,,,221426,Palaeoloxodon antiquus,species,159798,,Palaeoloxodon antiquus,species,159781,Middle Pleistocene,,0.781,0.126,77543
+1574510,occ,,,20327,Mammuthus columbi,species,47873,,Mammuthus columbi,species,46017,Irvingtonian,,1.8,0.3,78274
+1578508,occ,,,222853,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,78409
+1578509,occ,,,222854,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,78419
+1578510,occ,,,222855,Elephas columbi,species,46017,recombined as,Mammuthus columbi,species,46017,Pleistocene,,2.588,0.0117,78419
+1578511,occ,,,222856,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,78419
+1578512,occ,,,222857,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,78409
+1578513,occ,,,222858,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,78409
+1578514,occ,,,222859,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,78409
+1578515,occ,,,222860,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,78409
+1578516,occ,,,222861,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,78409
+1578518,occ,,,222863,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,78409
+1578519,occ,,,222864,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,78409
+1578520,occ,,,222865,Elephas primigenius,species,46027,recombined as,Mammuthus primigenius,species,46027,Pleistocene,,2.588,0.0117,78409
+1582835,occ,,,223635,Mammuthus trogontherii,species,395360,,Mammuthus trogontherii,species,159796,Late Pleistocene,,0.126,0.0117,78653
+1584420,occ,,,197943,Mammuthus meridionalis,species,47879,,Mammuthus meridionalis,species,46026,Early Pleistocene,,2.588,0.781,78892
