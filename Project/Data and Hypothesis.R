@@ -1,4 +1,4 @@
-install.packages("auk")
+#install.packages("auk")
 setwd("C:\\Users\\Kayle\\AppData\\Local\\Temp\\RtmpuI0Z44\\downloaded_packages")
 library(auk)
 states <- c("US-MD", "CR-P")
