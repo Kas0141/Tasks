@@ -1,9 +1,9 @@
 Cancer Site ,# 2010,# 2020,% Change ,
-All Types of Cancer,813566,1009416,24.1,Male
-Brain and CNS,11711,13431,14.7,Male
-Colon and rectum,72275,81318,12.5,Male
+All Cancer Sites ,813566,1009416,24.1,Male
+Brain,11711,13431,14.7,Male
+Colon,72275,81318,12.5,Male
 Esophagus,12106,15009,24,Male
-Hodgkin lymphoma ,5338,6597,23.6,Male
+Lymphoma ,42052,50251,42.5,Male
 Kidney  ,32998,46330,40.4,Male
 Larnyx,8298,8657,4.3,Male
 Leukemia ,23615,26971,14.2,Male
@@ -11,22 +11,20 @@ Liver,20269,32781,61.7,Male
 Lung,98785,103636,4.9,Male
 Melanoma ,44301,57594,30,Male
 Myeloma ,10992,13848,26,Male
-Non-Hodgkin Lymphoma ,36714,43654,18.9,Male
 Oral Cavity ,24752,29357,18.6,Male
 Pancreas,21619,29637,37.1,Male
 Prostate,251933,329901,30.9,Male
 Stomach,14786,17902,21.1,Male
 Testis,9021,10468,16,Male
 Thyroid ,11476,19073,66.2,Male
-Urinary bladder,52769,63787,20.9,Male
-All Cancer Sites ,755671,911584,20.6,Female
-Brain and other CNS,9418,10799,14.7,Female
-Cervix Uteri,10253,10041,-2.1,Female
-Colon and Rectum,70568,76880,8.9,Female
-"Corpus and Uterus, NOS",48301,63119,,Female
+Bladder,52769,63787,20.9,Male
+All Cancer,755671,911584,20.6,Female
+Brain,9418,10799,14.7,Female
+Uteri,10253,10041,-2.1,Female
+Colon,70568,76880,8.9,Female
 Esophagus ,3495,3917,12.1,Female
-Female Breast ,227267,267693,17.8,Female
-Hodgkin Lymphoma ,4143,4534,9.4,Female
+Breast ,227267,267693,17.8,Female
+Hodgkin Lymphoma ,34741,40844,28.1,Female
 Kidney ,20162,28154,39.6,Female
 Larynx,2068,2181,5.5,Female
 Leukemia,17706,19962,12.7,Female
@@ -34,10 +32,9 @@ Liver ,7884,12180,54.5,Female
 Lung  ,94330,106067,12.4,Female
 Melanoma ,32984,43008,30.4,Female
 Myeloma ,9083,11581,27.5,Female
-Non-Hodgkin Lymphoma,30598,36310,18.7,Female
 Oral Cavity and Pharynx,11227,12692,13.1,Female
 Ovary ,22363,24393,9.1,Female
 Pancreas,21540,29035,34.8,Female
 Stomach,9001,10708,19,Female
 Thyroid ,36151,60015,66,Female
-Urinary Bladder ,16384,18009,9.9,Female
+Bladder ,16384,18009,9.9,Female
