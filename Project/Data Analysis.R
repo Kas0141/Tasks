@@ -10,9 +10,9 @@ Females <- as.matrix(Dat1[which(Dat1[,5]=="Female"),])
 
 
 pdf("barplot.pdf")
-par(mfrow=c(1,2), mar=c(6,4,1,1), las=2)
-barplot(cbind(as.numeric(Males[,2]), as.numeric(Males[,3]))~Males[,1], beside=TRUE, xlab="", ylab="Number of Cancer Cases for Males")
-barplot(cbind(as.numeric(Females[,2]), as.numeric(Females[,3]))~Females[,1], beside=TRUE, xlab="", ylab="Number of Cases for Females")
+par(mfrow=c(1,2), mar=c(6,4,1,1), las=2, mgp=c(3, 0.1, 0), cex.axis=0.75)
+barplot(cbind(as.numeric(Males[,2]), as.numeric(Males[,3]))~Males[,1], beside=TRUE, xlab="Males", ylab="")
+barplot(cbind(as.numeric(Females[,2]), as.numeric(Females[,3]))~Females[,1], beside=TRUE, xlab="Females", ylab="")
 dev.off()
 
 
