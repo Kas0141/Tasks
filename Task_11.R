@@ -47,9 +47,9 @@ monty_hall_results<- monty_hall(iter)
 summary<-table(monty_hall_results$contestant_door)
 df_summary<-data.frame(label=names(summary),count=matrix(summary))
 print(df_summary)
-
+pdf('barplotTask11.pdf', height=4, width=4)
 barplot(c(sum(as.numeric(monty_hall_results$stick_win)),sum(as.numeric(monty_hall_results$switch_win))), beside=TRUE, xlab='switch',ylab='stick')
-
+dev.off()
 # 3
 install.packages('meme')
 library(meme)   
