@@ -28,3 +28,17 @@ barplot(Dat3[,2], names.arg=Dat3[,1], las=2, ylim=c(0,50), xlab="", ylab="Percen
 head(Dat1)
 head(Dat2)
 head(Dat3)
+z<-read.csv(file="C:\\Users\\Kayle\\OneDrive\\Desktop\\Evolution\\Tasks\\Project\\z Cancer cases for 2010.csv")
+x<-read.csv(file="C:\\Users\\Kayle\\OneDrive\\Desktop\\Evolution\\Tasks\\Project\\x Cancer .csv")
+y<-read.csv(file="C:\\Users\\Kayle\\OneDrive\\Desktop\\Evolution\\Tasks\\Project\\y TP53.csv")
+
+Dat5<-read.csv(file="C:\\Users\\Kayle\\OneDrive\\Desktop\\Evolution\\Tasks\\Project\\2010 both sexes cancer.csv")
+head(Dat5)
+head(x)
+head(y)
+head(z)
+Data4<-read.csv(file="C:\\Users\\Kayle\\OneDrive\\Desktop\\Evolution\\Tasks\\Project\\Cancer 2 Data.csv")
+head(Data4)
+plot(as.numeric(Data4[,2]), as.numeric(Data4[,3]), xlab="Number of cancer cases in 2010", ylab="% Affected by TP53 Mutations in 2010")
+cor.test(as.numeric(Data4[,2]), as.numeric(Data4[,3]))
+
